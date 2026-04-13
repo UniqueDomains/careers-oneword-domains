@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .careers one-word domains from Uni
 
 **Public extract:** 9,153 rows · **Live catalog:** 9,153 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/careers`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| alpha.careers     | available | $49.99    | $94.99        | 90             | 54     | 5      | name.com         |
+| alpha.careers     | available | $49.99    | $94.99        | 90             | 53     | 5      | name.com         |
 | prompt.careers    | resell    | —         | —             | 114            | 68     | 6      | NameCheap, Inc.  |
 | power.careers     | premium   | $520      | $520          | 98             | 62     | 5      | namecheap        |
 | wizard.careers    | available | $49.99    | $94.99        | 118            | 43     | 6      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
