@@ -71,7 +71,7 @@ print(df.head())
 | sex.careers       | resell    | —         | —             | 98             | 59     | 3      | Porkbun LLC      |
 | ace.careers       | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
 | pop.careers       | available | $49.99    | $94.99        | 82             | 43     | 3      | name.com         |
-| free.careers      | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC      |
+| free.careers      | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC      |
 | art.careers       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap        |
 | deep.careers      | available | $49.99    | $94.99        | 72             | 43     | 4      | name.com         |
 | smart.careers     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC |
@@ -82,7 +82,7 @@ print(df.head())
 | aaa.careers       | available | $89.98    | —             | 70             | 42     | 3      | namecheap        |
 | world.careers     | resell    | —         | —             | 88             | 51     | 5      | Spaceship, Inc.  |
 | game.careers      | premium   | $500      | $500          | 120            | 50     | 4      | name.com         |
-| mark.careers      | available | $49.99    | $94.99        | 66             | 42     | 4      | name.com         |
+| quick.careers     | available | $49.99    | $94.99        | 72             | 41     | 5      | name.com         |
 | human.careers     | resell    | —         | —             | 74             | 51     | 5      | Sav.com, LLC - 5 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
