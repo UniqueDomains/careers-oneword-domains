@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .careers one-word domains from Uni
 
 **Public extract:** 9,153 rows · **Live catalog:** 9,153 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/careers`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | alpha.careers     | available | $49.99    | $94.99        | 90             | 53     | 5      | name.com         |
 | prompt.careers    | resell    | —         | —             | 114            | 68     | 6      | NameCheap, Inc.  |
 | power.careers     | premium   | $520      | $520          | 98             | 62     | 5      | namecheap        |
-| wizard.careers    | available | $49.99    | $94.99        | 118            | 43     | 6      | name.com         |
+| pop.careers       | available | $49.99    | $94.99        | 82             | 44     | 3      | name.com         |
 | sex.careers       | resell    | —         | —             | 98             | 59     | 3      | Porkbun LLC      |
 | ace.careers       | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
-| pop.careers       | available | $49.99    | $94.99        | 82             | 43     | 3      | name.com         |
+| wizard.careers    | available | $49.99    | $94.99        | 118            | 43     | 6      | name.com         |
 | free.careers      | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC      |
 | art.careers       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap        |
 | deep.careers      | available | $49.99    | $94.99        | 72             | 43     | 4      | name.com         |
 | smart.careers     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC |
 | athletics.careers | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap        |
 | security.careers  | available | $89.98    | —             | 70             | 43     | 8      | namecheap        |
-| local.careers     | resell    | —         | —             | 102            | 54     | 5      | Porkbun LLC      |
+| local.careers     | resell    | —         | —             | 102            | 53     | 5      | Porkbun LLC      |
 | one.careers       | premium   | $500      | $500          | 132            | 50     | 3      | name.com         |
 | aaa.careers       | available | $89.98    | —             | 70             | 42     | 3      | namecheap        |
 | world.careers     | resell    | —         | —             | 88             | 51     | 5      | Spaceship, Inc.  |
 | game.careers      | premium   | $500      | $500          | 120            | 50     | 4      | name.com         |
 | quick.careers     | available | $49.99    | $94.99        | 72             | 41     | 5      | name.com         |
-| human.careers     | resell    | —         | —             | 74             | 51     | 5      | Sav.com, LLC - 5 |
+| human.careers     | resell    | —         | —             | 74             | 50     | 5      | Sav.com, LLC - 5 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
