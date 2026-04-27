@@ -1,22 +1,22 @@
-# Available .CAREERS One-Word Domains (9,153)
+# Available .CAREERS One-Word Domains (11,934)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C153%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C153%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C934%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .careers one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .careers one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,934 domains** on the canonical page below.
 
-**Public extract:** 9,153 rows · **Live catalog:** 9,153 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,934 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/careers`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CAREERS one-word doma
 
 ### Files
 
-- `careers.csv` — public CSV extract (9,153 rows)
-- `careers.json` — public JSON extract (9,153 rows)
+- `careers.csv` — public CSV extract (1,000 rows)
+- `careers.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| alpha.careers     | available | $49.99    | $94.99        | 90             | 53     | 5      | name.com         |
-| prompt.careers    | resell    | —         | —             | 114            | 68     | 6      | NameCheap, Inc.  |
-| power.careers     | premium   | $520      | $520          | 98             | 62     | 5      | namecheap        |
-| pop.careers       | available | $49.99    | $94.99        | 82             | 44     | 3      | name.com         |
-| sex.careers       | resell    | —         | —             | 98             | 59     | 3      | Porkbun LLC      |
-| ace.careers       | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
-| wizard.careers    | available | $49.99    | $94.99        | 118            | 43     | 6      | name.com         |
-| free.careers      | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC      |
-| art.careers       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap        |
-| deep.careers      | available | $49.99    | $94.99        | 72             | 43     | 4      | name.com         |
-| smart.careers     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC |
-| athletics.careers | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap        |
-| security.careers  | available | $89.98    | —             | 70             | 43     | 8      | namecheap        |
-| local.careers     | resell    | —         | —             | 102            | 53     | 5      | Porkbun LLC      |
-| one.careers       | premium   | $500      | $500          | 132            | 50     | 3      | name.com         |
-| aaa.careers       | available | $89.98    | —             | 70             | 42     | 3      | namecheap        |
-| world.careers     | resell    | —         | —             | 88             | 51     | 5      | Spaceship, Inc.  |
-| game.careers      | premium   | $500      | $500          | 120            | 50     | 4      | name.com         |
-| quick.careers     | available | $49.99    | $94.99        | 72             | 41     | 5      | name.com         |
-| human.careers     | resell    | —         | —             | 74             | 50     | 5      | Sav.com, LLC - 5 |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| coins.careers        | available | $49.99    | —             | 56             | 41     | 5      | name.com         |
+| skills.careers       | resell    | —         | —             | 58             | 47     | 6      | GoDaddy.com, LLC |
+| Tools.careers        | premium   | $560      | $560          | 56             | 40     | 5      | namecheap        |
+| lets.careers         | available | $49.99    | —             | 77             | 39     | 4      | name.com         |
+| makewaves.careers    | resell    | —         | —             | 78             | 8      | 10     | GoDaddy.com, LLC |
+| events.careers       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| justin.careers       | available | $49.99    | —             | 58             | 38     | 7      | name.com         |
+| solutions.careers    | premium   | $250      | —             | 56             | 31     | 9      | name.com         |
+| WiFi.careers         | available | $89.98    | —             | 83             | 37     | 5      | namecheap        |
+| photos.careers       | premium   | $500      | —             | 54             | 28     | 6      | name.com         |
+| aliens.careers       | available | $49.99    | —             | 56             | 35     | 6      | name.com         |
+| systems.careers      | premium   | $500      | —             | 46             | 27     | 7      | name.com         |
+| etc.careers          | available | $49.99    | —             | 58             | 34     | 3      | name.com         |
+| tips.careers         | premium   | $500      | —             | 80             | 26     | 4      | name.com         |
+| Cats.careers         | available | $89.98    | —             | 59             | 33     | 4      | namecheap        |
+| loans.careers        | premium   | $500      | —             | 58             | 24     | 5      | name.com         |
+| trends.careers       | available | $49.99    | —             | 60             | 32     | 6      | name.com         |
+| flights.careers      | premium   | $500      | —             | 61             | 22     | 7      | name.com         |
+| William.careers      | available | $89.98    | —             | 74             | 31     | 7      | namecheap        |
+| workfromhome.careers | premium   | $242      | $242          | 51             | 16     | 14     | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,153-row public sample | 9,153 live domains                               |
+| 1,000-row public sample | 11,934 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
