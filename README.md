@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .careers one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,106 domains · **Median ask:** $58.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/careers`  
 **Best for:** founders, investors, studios
 
@@ -76,11 +76,11 @@ print(df.head())
 | photos.careers       | premium   | $500      | —             | 54             | 28     | 6      | name.com         |
 | aliens.careers       | available | $49.99    | —             | 56             | 35     | 6      | name.com         |
 | systems.careers      | premium   | $500      | —             | 46             | 27     | 7      | name.com         |
-| etc.careers          | available | $49.99    | —             | 58             | 34     | 3      | name.com         |
-| tips.careers         | premium   | $500      | —             | 80             | 26     | 4      | name.com         |
 | Cats.careers         | available | $89.98    | —             | 59             | 33     | 4      | namecheap        |
-| loans.careers        | premium   | $500      | —             | 58             | 24     | 5      | name.com         |
+| tips.careers         | premium   | $500      | —             | 80             | 26     | 4      | name.com         |
 | trends.careers       | available | $49.99    | —             | 60             | 32     | 6      | name.com         |
+| loans.careers        | premium   | $500      | —             | 58             | 24     | 5      | name.com         |
+| etc.careers          | available | $49.99    | —             | 58             | 32     | 3      | name.com         |
 | flights.careers      | premium   | $500      | —             | 61             | 22     | 7      | name.com         |
 | William.careers      | available | $89.98    | —             | 74             | 31     | 7      | namecheap        |
 | workfromhome.careers | premium   | $242      | $242          | 51             | 16     | 14     | namesilo         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
