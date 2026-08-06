@@ -1,10 +1,10 @@
-# Available .CAREERS One-Word Domains (12,106)
+# Available .CAREERS One-Word Domains (12,110)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C106%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C110%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .careers one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,106 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,110 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,106 domains · **Median ask:** $57.26 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,110 domains · **Median ask:** $53.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/careers`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CAREERS one-word doma
 
 ### Files
 
-- `careers.csv` — public CSV extract (1,000 rows)
-- `careers.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `careers.csv`, public CSV extract (1,000 rows)
+- `careers.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| alpha.careers      | available | $49.99    | $94.99        | 90             | 52     | 5      | name.com         |
-| startup.careers    | resell    | —         | —             | 82             | 45     | 7      | NameCheap, Inc.  |
-| game.careers       | premium   | $500      | $500          | 120            | 50     | 4      | name.com         |
-| macedonia.careers  | available | $49.99    | —             | 70             | 52     | 9      | name.com         |
-| gaming.careers     | resell    | —         | —             | 76             | 38     | 6      | GoDaddy.com, LLC |
-| all.careers        | premium   | $500      | $500          | 88             | 48     | 3      | name.com         |
-| just.careers       | available | $49.99    | —             | 150            | 50     | 4      | name.com         |
-| america.careers    | resell    | —         | —             | 72             | 32     | 7      | NameSilo, LLC    |
-| house.careers      | premium   | $500      | —             | 84             | 41     | 5      | name.com         |
-| panda.careers      | available | $49.99    | —             | 88             | 47     | 5      | name.com         |
-| purpose.careers    | resell    | —         | —             | 108            | 31     | 7      | IONOS SE         |
-| dog.careers        | premium   | $500      | —             | 74             | 39     | 3      | name.com         |
-| image.careers      | available | $49.99    | —             | 100            | 44     | 5      | name.com         |
-| robotic.careers    | resell    | —         | —             | 72             | 31     | 7      | Porkbun LLC      |
-| school.careers     | premium   | $500      | —             | 102            | 38     | 6      | name.com         |
-| rise.careers       | available | $49.99    | —             | 62             | 42     | 4      | name.com         |
-| academic.careers   | resell    | —         | —             | 96             | 21     | 8      | GoDaddy.com, LLC |
-| statistics.careers | premium   | $128.70   | $128.70       | 60             | 34     | 10     | namecheap        |
-| contact.careers    | available | $49.99    | —             | 102            | 41     | 7      | name.com         |
-| prompting.careers  | resell    | —         | —             | 69             | 20     | 9      | Porkbun LLC      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| aaa.careers     | available | $49.99    | —             | high           | medium | 3      | name.com                                    |
+| upper.careers   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
+| all.careers     | premium   | $500      | $500          | high           | medium | 3      | name.com                                    |
+| aft.careers     | available | $28.98    | $89.98        | low            | low    | 3      | namecheap                                   |
+| abroad.careers  | resell    | —         | —             | high           | low    | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| dog.careers     | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| bar.careers     | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
+| gaming.careers  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                            |
+| game.careers    | premium   | $500      | $500          | high           | medium | 4      | name.com                                    |
+| cod.careers     | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
+| america.careers | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                               |
+| yell.careers    | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                    |
+| due.careers     | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
+| purpose.careers | resell    | —         | —             | high           | low    | 7      | IONOS SE                                    |
+| house.careers   | premium   | $500      | —             | high           | medium | 5      | name.com                                    |
+| dye.careers     | available | $49.99    | —             | medium         | low    | 3      | name.com                                    |
+| robotic.careers | resell    | —         | —             | high           | low    | 7      | Porkbun LLC                                 |
+| tours.careers   | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
+| end.careers     | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
+| startup.careers | resell    | —         | —             | high           | medium | 7      | NameCheap, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,106 live domains                        |
+| 1,000-row public sample | 12,110 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .careers extension. That makes the set highly specific: each option pairs a single term with a work and hiring-oriented ending. Examples in this selection range from broad words like critical.careers and bearing.careers to more playful or abstract names like confetti.careers and adlib.careers. Pricing is relatively low at the median ask of $58.30, so the main decision is usually fit, clarity, and risk rather than headline cost. For founders, the best choices are easy to say, easy to remember, and clearly relevant to recruiting or employer branding. For investors, the strongest names are commercially legible and less exposed to obvious trademark issues.
+This selection covers one-word and short-phrase .careers domains, the vast majority currently available rather than resale or premium. Pricing skews low, with most names asking under $500, making this a budget-friendly category for anyone comparing career-focused domain names. A small number of premium-status and higher-demand names sit apart from the bulk of lower-demand, lower-price listings.
 
-- All names in this set use the .careers extension
-- Median ask across the selection is $58.30
-- Favor clear, memorable words with hiring relevance
-- Avoid names with obvious trademark exposure
+- 12,110 .careers domains tracked, updated daily
+- Median ask ~$54; most names under $500
+- 97% marked available, ~2% premium status
+- Examples: backyard.careers, appreciation.careers
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
