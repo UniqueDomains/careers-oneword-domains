@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .careers one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,103 domains · **Median ask:** $42.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/careers`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| just.careers    | available | $49.99    | —             | high           | medium | 4      | name.com                                    |
+| here.careers    | available | —         | —             | high           | low    | 4      | —                                           |
 | aaa.careers     | available | $49.99    | —             | high           | medium | 3      | name.com                                    |
 | upper.careers   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
 | all.careers     | premium   | $500      | $500          | high           | medium | 3      | name.com                                    |
@@ -82,8 +84,6 @@ print(df.head())
 | due.careers     | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
 | robotic.careers | resell    | —         | —             | high           | low    | 7      | Porkbun LLC                                 |
 | tours.careers   | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
-| dye.careers     | available | $49.99    | —             | medium         | low    | 3      | name.com                                    |
-| startup.careers | resell    | —         | —             | high           | medium | 7      | NameCheap, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
