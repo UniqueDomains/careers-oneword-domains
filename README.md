@@ -1,10 +1,10 @@
-# Available .CAREERS One-Word Domains (32,062)
+# Available .CAREERS One-Word Domains (22,349)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C062%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C349%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .careers one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,062 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,349 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,062 domains · **Median ask:** $37.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 22,349 domains · **Median ask:** $38.22 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/careers`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| support.careers  | premium   | $512      | $512          | high           | medium | 7      | namesilo                                    |
-| friendly.careers | available | $28.98    | $89.98        | high           | low    | 8      | namecheap                                   |
-| message.careers  | available | $28.98    | $89.98        | high           | low    | 7      | namecheap                                   |
-| animal.careers   | available | $28.98    | $89.98        | high           | low    | 6      | namecheap                                   |
-| aaa.careers      | available | $49.99    | —             | high           | medium | 3      | name.com                                    |
-| maths.careers    | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| dog.careers      | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
-| abo.careers      | available | $28.98    | $89.98        | high           | low    | 3      | namecheap                                   |
-| sport.careers    | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 45                           |
-| tel.careers      | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
-| aft.careers      | available | $28.98    | $89.98        | high           | low    | 3      | namecheap                                   |
-| upper.careers    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
-| yell.careers     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                    |
-| azo.careers      | available | $28.98    | $89.98        | high           | low    | 3      | namecheap                                   |
-| gaming.careers   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                            |
-| coach.careers    | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
-| bar.careers      | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
-| america.careers  | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                               |
-| today.careers    | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
-| cue.careers      | available | $49.99    | —             | high           | low    | 3      | name.com                                    |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ann.careers     | available | $49.99    | —             | high           | low    | 3      | name.com  |
+| one.careers     | premium   | $512      | $512          | high           | medium | 3      | namesilo  |
+| ans.careers     | available | $34.99    | $71.99        | medium         | low    | 3      | namesilo  |
+| link.careers    | premium   | $520      | $520          | high           | medium | 4      | namecheap |
+| aum.careers     | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
+| show.careers    | premium   | $512      | $512          | high           | low    | 4      | namesilo  |
+| blt.careers     | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
+| glass.careers   | premium   | $500      | —             | high           | low    | 5      | name.com  |
+| eat.careers     | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
+| paper.careers   | premium   | $242      | $242          | high           | low    | 5      | namesilo  |
+| had.careers     | available | $49.99    | —             | high           | low    | 3      | name.com  |
+| salon.careers   | premium   | $520      | $520          | high           | low    | 5      | namecheap |
+| hag.careers     | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
+| church.careers  | premium   | $500      | —             | high           | low    | 6      | name.com  |
+| his.careers     | available | $49.99    | —             | high           | low    | 3      | name.com  |
+| racing.careers  | premium   | $500      | —             | high           | low    | 6      | name.com  |
+| lvi.careers     | available | $28.98    | $89.98        | high           | low    | 3      | namecheap |
+| tennis.careers  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| nor.careers     | available | $49.99    | —             | high           | low    | 3      | name.com  |
+| charity.careers | premium   | $512      | $512          | high           | low    | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,062 live domains                        |
+| 1,000-row public sample | 22,349 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
