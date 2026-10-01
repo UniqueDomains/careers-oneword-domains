@@ -1,10 +1,10 @@
-# Available .CAREERS One-Word Domains (27,943)
+# Available .CAREERS One-Word Domains (30,407)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C943%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C407%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .careers one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,943 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,407 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,943 domains · **Median ask:** $36.21 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 30,407 domains · **Median ask:** $35.62 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/careers`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | aum.careers        | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
 | link.careers       | premium   | $414.20   | $414.20       | high           | medium | 4      | spaceship |
 | blt.careers        | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
-| show.careers       | premium   | $512      | $512          | high           | low    | 4      | namesilo  |
-| dom.careers        | available | $16.27    | $59.07        | high           | medium | 3      | dynadot   |
 | glass.careers      | premium   | $512      | $512          | high           | low    | 5      | namesilo  |
+| dom.careers        | available | $16.27    | $59.07        | high           | medium | 3      | dynadot   |
+| paper.careers      | premium   | $220      | $220          | high           | low    | 5      | dynadot   |
 | dre.careers        | available | $28.98    | $89.98        | high           | low    | 3      | namecheap |
-| paper.careers      | premium   | $242      | $242          | high           | low    | 5      | namesilo  |
-| eos.careers        | available | $26.08    | $57.13        | high           | low    | 3      | spaceship |
 | salon.careers      | premium   | $520      | $520          | high           | low    | 5      | namecheap |
-| had.careers        | available | $49.99    | —             | high           | low    | 3      | name.com  |
+| eos.careers        | available | $26.08    | $57.13        | high           | low    | 3      | spaceship |
 | church.careers     | premium   | $520      | $520          | high           | medium | 6      | namecheap |
 | hag.careers        | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
 | racing.careers     | premium   | $500      | —             | high           | low    | 6      | name.com  |
 | his.careers        | available | $49.99    | —             | high           | low    | 3      | name.com  |
 | rowing.careers     | premium   | $72.60    | $72.60        | high           | low    | 6      | dynadot   |
-| jfk.careers        | available | $26.08    | $57.13        | high           | low    | 3      | spaceship |
+| igm.careers        | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
+| tennis.careers     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| iit.careers        | available | $34.99    | $71.99        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,943 live domains                        |
+| 1,000-row public sample | 30,407 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAREERS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
