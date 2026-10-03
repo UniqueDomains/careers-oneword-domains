@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 90be8ecd-cc95-4bf7-8a28-2914855f386a,titus.careers,available,34.99,71.99,high,low,5,namesilo,,,25/09/2026 05:37
 4e10be8f-9771-4f71-a334-55ed1ac2a488,reviewing.careers,available,28.98,89.98,high,low,9,namecheap,,,29/09/2026 08:58
 117adae9-7e2a-4718-85dd-1c06fa29c00b,rodney.careers,available,28.98,89.98,high,low,6,namecheap,,,28/09/2026 03:52
+dc0147dd-db8d-4539-9261-11d5e5d907dd,wicker.careers,available,26.08,57.13,high,low,6,spaceship,,,02/10/2026 14:32
 9de3d5b4-bf65-4897-8916-2e0b8cf404c1,cloudless.careers,available,28.98,89.98,high,low,9,namecheap,,,12/08/2026 12:32
 ef2a8c19-c196-4e6d-b0e1-7714b587bee1,federalists.careers,available,26.08,57.13,medium,low,11,spaceship,,,29/09/2026 11:41
 deb6a4c5-9f8e-4d27-8d11-4abf4e55bc80,holocaust.careers,available,34.99,71.99,medium,low,9,namesilo,,,29/09/2026 06:54
@@ -11,6 +12,7 @@ d10a0d1f-2960-46f1-a435-b2b59564312d,unpaired.careers,available,28.98,89.98,medi
 b8a4e7a8-ce30-426c-a3ac-6c9f7991d7f4,ionian.careers,available,28.98,89.98,high,low,6,namecheap,,,22/08/2026 09:28
 72301f98-7e93-413a-a9dd-604f3dcbc044,lunisolar.careers,available,28.98,89.98,medium,low,9,namecheap,,,24/08/2026 11:31
 43c004a0-c6fe-42cc-90fe-59e4f1a6c007,echoic.careers,available,28.98,89.98,medium,low,6,namecheap,,,14/08/2026 23:34
+3e041d03-1d41-4716-aad0-8b3676e2e011,tientsin.careers,available,34.99,71.99,medium,low,8,namesilo,,,02/10/2026 16:55
 21b2802a-c59a-4cbf-b69d-dc8832fa2a94,uncommitted.careers,available,34.99,71.99,medium,low,11,namesilo,,,01/10/2026 06:01
 c4b47874-9787-4ae7-8284-fc4e3efd98ad,accordant.careers,available,28.98,89.98,medium,low,9,namecheap,,,
 f61e2726-102e-480a-b829-b64785e62fcb,claire.careers,available,34.99,71.99,high,low,6,namesilo,,,01/10/2026 01:01
@@ -23,13 +25,15 @@ b95c607b-1c26-444d-8ec6-785b09eeb352,case.careers,available,26.08,57.13,high,low
 33630cda-abb4-429c-a210-eb5e1f441030,armful.careers,available,34.99,71.99,medium,low,6,namesilo,,,20/09/2026 06:50
 c19f4429-a49a-4fd2-a18c-49ee640ef3eb,rowing.careers,premium,72.6,72.6,high,low,6,dynadot,,,29/09/2026 20:14
 85eb4543-a282-4fe2-8d06-8af1decbe459,agricultural.careers,available,26.08,57.13,high,low,12,spaceship,,,30/09/2026 03:28
+77497385-cdf5-4f15-b7c4-b8f55ac4e2dc,searcy.careers,available,34.99,71.99,medium,low,6,namesilo,,,03/10/2026 04:15
 7f1c6d36-aa97-4696-8e87-93ed6b9efb7d,egregious.careers,available,28.98,89.98,medium,low,9,namecheap,,,15/08/2026 19:48
 25b6c7c1-9e6c-449c-a802-604ce8acf649,rayless.careers,available,28.98,89.98,medium,low,7,namecheap,,,09/09/2026 10:46
 9511a067-28a5-4f00-a2e4-523577b0a72f,oils.careers,available,28.98,89.98,medium,low,4,namecheap,,,30/09/2026 00:28
+cdbd3e06-b95b-43e4-a94a-3fd562d22b1f,cyr.careers,available,26.08,57.13,medium,low,3,spaceship,,,03/10/2026 04:27
 46094185-569c-476b-bddd-b1652231d4ff,maximizing.careers,available,28.98,89.98,high,low,10,namecheap,,,24/08/2026 17:56
 d8e067f0-6516-4bd9-98b0-8b7f78366eba,biform.careers,available,28.98,89.98,medium,low,6,namecheap,,,09/08/2026 20:07
 ca569496-eb1b-4d45-b6ba-ebcce30e9538,frisian.careers,available,28.98,89.98,medium,low,7,namecheap,,,18/08/2026 15:59
-20af6b32-a828-4175-9175-a2bbd348870b,businesslike.careers,available,34.99,71.99,high,low,12,namesilo,,,29/09/2026 02:32
+20af6b32-a828-4175-9175-a2bbd348870b,businesslike.careers,available,34.99,71.99,high,low,12,namesilo,,,02/10/2026 10:46
 e8c1c202-0af2-4939-a43b-d2a4c951c1fa,cooperated.careers,available,15.96,57.16,medium,low,10,porkbun,,,02/10/2026 03:43
 f36f8e4e-1cf1-4919-b7d6-544e9eee8491,anyways.careers,available,28.98,89.98,medium,low,7,namecheap,,,13/09/2026 20:13
 11354e11-6a39-4478-b1f5-a92aa85d1472,untrusty.careers,available,28.98,89.98,medium,low,8,namecheap,,,12/09/2026 21:46
@@ -87,12 +91,15 @@ c99c67ea-308e-4ad1-b633-b2e42a86ce1b,bellicose.careers,available,28.98,89.98,low
 503350ea-c4f9-452a-8978-b35e3ef0ee7c,abscissa.careers,available,34.99,71.99,medium,low,8,namesilo,,,16/09/2026 17:32
 897e29a5-a032-498a-9ad6-af6da9ead8e8,unrealistic.careers,available,16.27,59.07,medium,low,11,dynadot,,,29/09/2026 21:08
 e542d030-ea04-469c-ac8b-97c2beb6773e,disbelief.careers,available,34.99,71.99,medium,low,9,namesilo,,,24/09/2026 22:29
+bb200c32-1eaf-479d-b9c8-e3c3c430ec34,fleets.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 23:02
 dd66aa19-5d56-4642-bf4e-b7991026421a,honeymoon.careers,available,26.08,57.13,high,low,9,spaceship,,,27/09/2026 14:05
 75926a78-8246-41af-a545-5c7522683b92,bagful.careers,available,28.98,89.98,medium,low,6,namecheap,,,21/09/2026 17:57
+d7992cb1-28c2-4f42-a804-6313d42c92bb,charting.careers,available,28.98,89.98,high,low,8,namecheap,,,02/10/2026 07:28
 bd98f872-5154-4eda-9d25-f31165f6a9e8,manzoni.careers,available,34.99,71.99,high,low,7,namesilo,,,18/09/2026 05:31
 51310fd7-be34-433e-ab57-260b62974a56,accordion.careers,available,28.98,89.98,high,low,9,namecheap,,,16/09/2026 23:02
 4ee82e12-eb64-4d4f-846e-6d5d0a1966c8,lamppost.careers,available,16.27,59.07,high,low,8,dynadot,,,30/09/2026 02:00
 f548dbef-853c-463f-b376-3ad975f9daf7,exemplary.careers,available,28.98,89.98,high,low,9,namecheap,,,21/09/2026 18:58
+971c2285-7a5a-4b41-a1c0-545a9bf76a00,heineken.careers,available,26.08,57.13,high,low,8,spaceship,,,02/10/2026 08:05
 7423c90c-2865-4cc7-812b-2375b36c1c1d,summary.careers,available,34.99,71.99,high,low,7,namesilo,,,23/09/2026 17:08
 197eb7be-dea0-4f35-86b4-ec6248d31f56,swiftly.careers,available,26.08,57.13,high,low,7,spaceship,,,28/09/2026 14:53
 5729a4be-2954-4701-b31c-f4c0f56fa741,grandkids.careers,available,34.99,71.99,medium,low,9,namesilo,,,19/09/2026 23:28
@@ -126,7 +133,7 @@ a8fa94bc-da09-44ca-9bc5-9d6cea4df871,uncommon.careers,available,28.98,89.98,high
 932f63c5-4290-4c1d-83d3-d815afeb0df6,eos.careers,available,26.08,57.13,high,low,3,spaceship,,,29/09/2026 06:47
 1a929957-fed8-44e1-bbb2-19c60fd7d14d,serum.careers,available,34.99,71.99,high,low,5,namesilo,,,29/09/2026 06:06
 ff3c53b6-6784-4f36-9c7b-21ebdce98b46,delible.careers,available,28.98,89.98,low,low,7,namecheap,,,14/08/2026 00:35
-695f9867-f406-42bb-8545-6973447d4a94,uml.careers,available,49.99,,high,low,3,name.com,,,
+695f9867-f406-42bb-8545-6973447d4a94,uml.careers,available,34.99,71.99,high,low,3,namesilo,,,02/10/2026 13:27
 833c2472-8cef-4923-bf40-2ed2fb9866a7,ouachita.careers,available,34.99,71.99,medium,low,8,namesilo,,,30/09/2026 10:40
 e66a7880-1bd7-4d76-b004-57cc2c85c559,wallachia.careers,available,34.99,71.99,medium,low,9,namesilo,,,01/10/2026 23:44
 bde23d35-7cc0-4c74-bc39-414a02c7c3b1,eternal.careers,available,34.99,71.99,high,medium,7,namesilo,,,21/09/2026 22:47
@@ -139,6 +146,7 @@ bde23d35-7cc0-4c74-bc39-414a02c7c3b1,eternal.careers,available,34.99,71.99,high,
 0bc7b58a-e151-46e0-a7dd-debab0a6c066,radish.careers,available,28.98,89.98,high,low,6,namecheap,,,24/09/2026 20:53
 749a5e26-62e6-4d4c-8ff6-83ecde9e4e29,mckenna.careers,available,16.27,59.07,high,low,7,dynadot,,,27/09/2026 19:59
 a3e52f2d-dc12-4cd2-8039-9babd48c37a4,avoided.careers,available,26.08,57.13,low,low,7,spaceship,,,29/09/2026 05:05
+12a7a10e-e354-42f2-9cdf-ff7d6e1f6668,clarksburg.careers,available,34.99,71.99,medium,low,10,namesilo,,,02/10/2026 14:39
 3df636c6-e99e-450a-8b87-383944d4f50f,salon.careers,premium,520,520,high,low,5,namecheap,,,22/09/2026 22:23
 e5f00242-1828-4a5c-a515-6da5e199d210,streamers.careers,available,28.98,89.98,medium,low,9,namecheap,,,20/09/2026 01:44
 4248ce82-195d-45b4-8516-df9fda118e71,composing.careers,available,34.99,71.99,high,low,9,namesilo,,,24/09/2026 16:54
@@ -157,16 +165,19 @@ dd3f1c2d-91a5-43f3-a7ad-e63e50410be9,zeke.careers,available,26.08,57.13,medium,l
 dbe37cc6-5efe-4cc1-a413-809544f0a382,destined.careers,available,34.99,71.99,high,low,8,namesilo,,,24/09/2026 06:55
 6d83b820-99c2-48bb-a55a-fa2c1fdffd0c,trilateral.careers,available,28.98,89.98,medium,low,10,namecheap,,,11/09/2026 14:28
 8329c84d-6831-443a-abf3-7fc0c1eb6ff7,stuttgart.careers,available,34.99,71.99,high,low,9,namesilo,,,25/09/2026 10:46
+94b350ec-ad8f-4b32-85d6-ef4532b293c2,townes.careers,available,28.98,89.98,medium,low,6,namecheap,,,02/10/2026 23:57
 f23ca196-5765-4072-ac06-c80910019c8c,cross.careers,available,34.99,71.99,high,low,5,namesilo,,,22/09/2026 16:13
 d7584805-705e-46ca-8309-c2038b0b2761,europium.careers,available,34.99,71.99,medium,low,8,namesilo,,,20/09/2026 23:26
+18fd2e93-27b3-4fc5-9a17-7091c9e47f30,typefaces.careers,available,26.08,57.13,medium,low,9,spaceship,,,02/10/2026 13:50
 be5e147e-ba87-48b0-99bd-d444ca285b45,danger.careers,available,26.08,57.13,high,low,6,spaceship,,,29/09/2026 13:11
 3db22971-3997-47ec-bd4a-d523232c5860,chamberlain.careers,available,34.99,71.99,medium,low,11,namesilo,,,01/10/2026 22:56
-c51a561d-6a41-4439-a6b6-65cb5158b50f,nighttime.careers,available,26.08,57.13,high,low,9,spaceship,,,30/09/2026 05:43
+c51a561d-6a41-4439-a6b6-65cb5158b50f,nighttime.careers,available,26.08,57.13,high,low,9,spaceship,,,03/10/2026 01:44
 0b98fa8f-0eb9-4e87-8bcb-32c247abb912,coordinating.careers,available,26.08,57.13,medium,low,12,spaceship,,,30/09/2026 07:45
 bd094945-e56b-46cb-b760-ea440ee87c9d,passport.careers,available,34.99,71.99,high,low,8,namesilo,,,27/09/2026 04:57
 60cf091b-7624-4aaf-b1e9-1cf87f18dbc0,denominate.careers,available,28.98,89.98,medium,low,10,namecheap,,,14/08/2026 03:43
 1db7fce5-a97d-4fd6-a735-13faca031d9b,voss.careers,available,26.08,57.13,medium,low,4,spaceship,,,29/09/2026 03:14
 0e733d17-f7ec-4478-8d7d-29f8c27647de,crabwise.careers,available,28.98,89.98,medium,low,8,namecheap,,,13/08/2026 04:14
+d156a7a0-08b6-408e-a2b0-5143108dab38,manuela.careers,available,26.08,57.13,high,low,7,spaceship,,,02/10/2026 19:56
 17915708-d46e-4a73-bf58-e7bbe263503a,afa.careers,available,34.99,71.99,high,low,3,namesilo,,,01/10/2026 07:24
 ea484371-085d-4815-8892-d5364e609c05,novosibirsk.careers,available,34.99,71.99,medium,low,11,namesilo,,,30/09/2026 05:10
 bba74f1b-c2d8-475b-81f8-04ed1e2d9b0d,synaptic.careers,available,28.98,89.98,high,low,8,namecheap,,,11/09/2026 06:09
@@ -189,10 +200,14 @@ be075523-f104-469e-9aa1-dcbaee809081,snobby.careers,available,28.98,89.98,medium
 f46a4cec-aab2-49b7-939b-a4d535a05049,dodgy.careers,available,28.98,89.98,medium,low,5,namecheap,,,12/08/2026 01:46
 ad970cc7-a457-4c8e-bf8d-1f0deff89fd5,broadleaf.careers,available,28.98,89.98,high,low,9,namecheap,,,11/08/2026 04:57
 cd6f2e7f-f051-4042-b517-d9cfac2961c1,prow.careers,available,28.98,89.98,medium,low,4,namecheap,,,18/08/2026 11:28
+af20b87f-9960-4788-8e1e-111c6f01dade,centralia.careers,available,26.08,57.13,medium,low,9,spaceship,,,02/10/2026 10:19
+d4ebe3ae-e4c5-4312-9673-f1ea7efc00c4,illyrian.careers,available,15.96,57.16,medium,low,8,porkbun,,,02/10/2026 05:23
 6a85b6d7-3873-4c0c-9575-88c38f5fab2a,tennis.careers,premium,118.8,118.8,high,low,6,namesilo,,,30/09/2026 02:23
 b0fd9c30-02ad-4f79-a86d-777afd0b34e1,pilgrims.careers,available,55.2,55.2,medium,low,8,cloudflare,,,29/09/2026 11:05
+3fb8d7d1-0a08-469c-9ddc-fcc67323a4bb,crossbow.careers,available,26.08,57.13,high,low,8,spaceship,,,02/10/2026 14:48
 67c159b9-8c80-46ce-bd75-4fda4069e106,wrapped.careers,available,28.98,89.98,high,low,7,namecheap,,,
 d5808579-5509-4ce3-a8f2-ae805003e315,haines.careers,available,55.2,55.2,medium,low,6,cloudflare,,,28/09/2026 04:08
+3555e454-bfad-46c5-8e5b-f9124ab4f753,diffusion.careers,available,34.99,71.99,high,low,9,namesilo,,,02/10/2026 14:51
 7204bc5f-662c-46da-8c9c-3bbce9d6b4ab,cores.careers,available,34.99,71.99,medium,low,5,namesilo,,,01/10/2026 16:54
 9dae07e4-f8c9-43b7-b83d-653c8f722c19,opencut.careers,available,28.98,89.98,medium,low,7,namecheap,,,04/09/2026 16:10
 af27248c-1bf3-436a-b7ef-3b8278bd2f2a,agamic.careers,available,28.98,89.98,medium,low,6,namecheap,,,
@@ -208,6 +223,8 @@ e367e572-3acc-40bd-ab21-3799114edc80,bawling.careers,available,28.98,89.98,mediu
 7638f05c-f6e9-40d9-8391-78d3c5ef5899,vanquish.careers,available,28.98,89.98,high,low,8,namecheap,,,09/08/2026 05:32
 321976d9-6168-4ac3-a46c-a4ea62cc80e9,aliment.careers,available,34.99,71.99,medium,low,7,namesilo,,,18/09/2026 07:56
 634d5aee-09cd-4e86-ac41-dc0175901659,glib.careers,available,28.98,89.98,medium,low,4,namecheap,,,20/08/2026 14:26
+f89c2351-3838-43c9-a92b-2599f8b9030d,stereotypes.careers,available,34.99,71.99,medium,low,11,namesilo,,,02/10/2026 13:30
+d3be2114-c2dd-4bdc-9823-b709e770a21a,graces.careers,available,34.99,71.99,high,low,6,namesilo,,,02/10/2026 21:53
 c43cac39-7b80-419b-947b-927f5682881a,damnably.careers,available,29.99,94.99,low,low,8,name.com,,,13/08/2026 16:35
 0070e879-398b-4f5f-af28-97dba4ba1fe0,courtship.careers,available,26.08,57.13,high,low,9,spaceship,,,29/09/2026 18:31
 dcce7fe9-9938-4faa-97ee-2b20677e2538,cymry.careers,available,28.98,89.98,medium,low,5,namecheap,,,13/09/2026 10:45
@@ -225,6 +242,7 @@ fb8bb45a-6e46-44fb-aa64-181918bc1bbc,plow.careers,available,26.08,57.13,high,low
 55f43d90-9e7f-4bc8-af15-6c05754dde81,harlem.careers,available,55.2,55.2,medium,low,6,cloudflare,,,28/09/2026 10:00
 2a7e5e2a-34d5-4ac9-b816-93d4552a3022,inorganic.careers,available,28.98,89.98,high,low,9,namecheap,,,22/08/2026 06:11
 0b513456-2cf9-41a1-b0f4-0ddd81bdf85b,victim.careers,available,34.99,71.99,high,low,6,namesilo,,,29/09/2026 17:12
+e612688d-ec17-4300-ba64-4fb1d7c6ed5f,favre.careers,available,34.99,71.99,medium,low,5,namesilo,,,02/10/2026 08:47
 c74bef24-7e73-46e6-9fc1-eea515f81100,paradise.careers,available,34.99,71.99,high,low,8,namesilo,,,25/09/2026 22:31
 7223984c-2887-4df1-b35d-4903ccc44256,mannerism.careers,available,28.98,89.98,medium,low,9,namecheap,,,17/09/2026 14:14
 c10cd813-8052-44e8-96b1-7ddeaf4296ec,marched.careers,available,34.99,71.99,medium,low,7,namesilo,,,29/09/2026 10:58
@@ -237,10 +255,11 @@ a5d54763-c566-49c3-8160-f38ae808a676,iloilo.careers,available,34.99,71.99,medium
 be1cf318-47a2-4206-a009-681623a58ee0,arranger.careers,available,34.99,71.99,medium,low,8,namesilo,,,17/09/2026 06:29
 60112961-e4aa-4c1d-880a-468166f8daaf,adenium.careers,available,34.99,71.99,medium,low,7,namesilo,,,17/09/2026 07:28
 de04212d-c635-4c64-be9d-a3bfb5bfac89,pew.careers,available,34.99,71.99,high,low,3,namesilo,,,02/10/2026 04:22
-5ef39385-9565-4451-8a3f-497e768816fe,lesson.careers,available,34.99,71.99,high,low,6,namesilo,,,25/09/2026 21:42
+5ef39385-9565-4451-8a3f-497e768816fe,lesson.careers,available,55.2,55.2,high,low,6,cloudflare,,,02/10/2026 21:45
 d5299c01-66a4-4e36-a5f2-387188473d16,weedy.careers,available,28.98,89.98,medium,low,5,namecheap,,,09/09/2026 23:44
 f5818e65-d928-41d1-b7f8-f6687423f28d,watercress.careers,available,28.98,89.98,medium,low,10,namecheap,,,13/08/2026 06:18
 02df020f-41eb-410e-a78e-aa450e837c07,bluetooth.careers,available,55.2,55.2,high,low,9,cloudflare,,,01/10/2026 22:07
+6010c858-e004-4e0c-90a3-27d9c94aa324,winterthur.careers,available,34.99,71.99,high,low,10,namesilo,,,02/10/2026 09:54
 bcc90a70-f8f3-4369-8a7b-7a6c06e4f550,unoccupied.careers,available,28.98,89.98,medium,low,10,namecheap,,,12/09/2026 16:09
 23eab19c-401f-4c41-9f34-c5f583364018,achondrite.careers,available,28.98,89.98,medium,low,10,namecheap,,,17/09/2026 00:54
 93c9d663-7282-493c-b969-5431de5ee935,worthy.careers,available,34.99,71.99,high,low,6,namesilo,,,28/09/2026 11:05
@@ -249,6 +268,7 @@ bcc90a70-f8f3-4369-8a7b-7a6c06e4f550,unoccupied.careers,available,28.98,89.98,me
 2b1be205-36c5-4a2b-870e-11c5ba981d1d,rufus.careers,available,55.2,55.2,medium,low,5,cloudflare,,,28/09/2026 16:19
 b31daff1-32be-47d0-b147-5f554b0ec7a4,orienting.careers,available,28.98,89.98,high,low,9,namecheap,,,04/09/2026 17:56
 e97a547b-cfa1-4ca7-9546-ba8b24caad16,integration.careers,available,34.99,71.99,high,low,11,namesilo,,,29/09/2026 23:22
+448bae55-889a-4fa2-a257-dd8abcd53eb5,sochi.careers,available,26.08,57.13,medium,low,5,spaceship,,,02/10/2026 09:31
 986e608e-78a8-4397-a332-b2ae27ec4ff3,reviewed.careers,available,28.98,89.98,medium,low,8,namecheap,,,29/09/2026 05:52
 60ea5826-09f7-4572-99f4-56ab1640d786,henson.careers,available,34.99,71.99,medium,low,6,namesilo,,,28/09/2026 14:26
 445d8d57-91ea-411f-ad61-010cbe6dc00c,dhaka.careers,available,55.2,55.2,medium,low,5,cloudflare,,,29/09/2026 06:13
@@ -260,7 +280,7 @@ bc45d08d-b277-4b3f-b973-48a175dce6ed,revolution.careers,available,28.98,89.98,hi
 0bc4fb06-0928-480c-bf47-bb5c109e0873,bambusa.careers,available,34.99,71.99,medium,low,7,namesilo,,,22/09/2026 00:41
 fd735837-a5f6-47ee-ba04-e7f7963d64e7,cruddy.careers,available,28.98,89.98,medium,low,6,namecheap,,,13/08/2026 08:44
 15d27183-adf8-4bca-92c6-431d87a8e7a3,dissonant.careers,available,28.98,89.98,medium,low,9,namecheap,,,07/08/2026 12:26
-721e921c-ea37-4177-b386-f6f781d45290,runaway.careers,available,28.98,89.98,high,low,7,namecheap,,,18/08/2026 17:46
+721e921c-ea37-4177-b386-f6f781d45290,runaway.careers,available,26.08,57.13,medium,low,7,spaceship,,,02/10/2026 11:19
 7f61f1b7-8ca4-453e-a026-e1706402e31b,ribbing.careers,available,28.98,89.98,medium,low,7,namecheap,,,11/09/2026 10:01
 9cc5682e-5136-408e-90c0-f4eb4a7eb778,pcl.careers,available,15.96,57.16,high,low,3,porkbun,,,30/09/2026 21:08
 365103b9-1482-406f-815e-d71587fe3d14,turret.careers,available,26.08,57.13,high,low,6,spaceship,,,01/10/2026 19:53
@@ -286,11 +306,13 @@ ef929fae-96f6-48a3-8c6e-5fc226b02d21,dickey.careers,available,28.98,89.98,medium
 c747bd5f-f221-4aa7-8930-ee398984d790,beluga.careers,available,28.98,89.98,high,low,6,namecheap,,,17/09/2026 01:49
 55c6a3ad-896b-45ef-970e-7a7448be89c3,notability.careers,available,28.98,89.98,high,low,10,namecheap,,,03/09/2026 22:04
 3f2382d4-8b36-470c-8453-bddd6d72ed3f,canty.careers,available,28.98,89.98,medium,low,5,namecheap,,,11/08/2026 17:46
+c1eff5c5-7282-4c22-8d33-4ddc1442513c,axelrod.careers,available,26.08,57.13,medium,low,7,spaceship,,,02/10/2026 20:17
 e0082178-a050-4bbb-803a-bd96d3aa899c,discourse.careers,available,28.98,89.98,high,low,9,namecheap,,,23/09/2026 22:52
 71d1cd60-04a3-42dd-b06d-7d6861b1c00a,miry.careers,available,28.98,89.98,medium,low,4,namecheap,,,10/08/2026 17:05
 bea7763e-16e3-4e92-8c02-a9b39449102c,initials.careers,available,34.99,71.99,medium,low,8,namesilo,,,28/09/2026 08:37
 f967d35a-6d12-4904-aef0-544060a7b7e7,librarian.careers,available,34.99,71.99,high,low,9,namesilo,,,23/09/2026 12:54
 ed8f34fc-a74a-4eb9-8877-6e5df1b75eb8,noseless.careers,available,28.98,89.98,low,low,8,namecheap,,,03/09/2026 21:47
+0df98752-dc0a-4685-9e5d-a9e3d03963f4,vpn.careers,available,34.99,71.99,high,medium,3,namesilo,,,02/10/2026 17:37
 8b1a4c7e-a464-4086-9828-b57131cd6570,goodman.careers,available,34.99,71.99,high,low,7,namesilo,,,23/09/2026 08:16
 5fbed9b5-f365-46e5-9fa1-4b888a56be87,architrave.careers,available,34.99,71.99,medium,low,10,namesilo,,,20/09/2026 02:17
 95ef0c4e-53e7-485a-aba3-610441478db0,ringer.careers,available,28.98,89.98,high,low,6,namecheap,,,23/09/2026 05:42
@@ -313,7 +335,7 @@ d10121b9-f158-4d9f-8972-ab5802cc5275,commandery.careers,available,34.99,71.99,me
 36e78518-2c85-48fb-b6c1-35ddc1c6513f,canis.careers,available,55.2,55.2,high,low,5,cloudflare,,,30/09/2026 08:55
 49bc17a4-e747-4517-990a-9b173177bb79,hooter.careers,available,34.99,71.99,medium,low,6,namesilo,,,21/09/2026 07:22
 66c0ef6a-5324-48cb-b580-bd3303ca763e,opposable.careers,available,28.98,89.98,medium,low,9,namecheap,,,06/08/2026 07:43
-32233c59-9ac1-42e2-ac86-559c45dd63e3,netherlands.careers,available,,,high,high,11,,,,
+bbfef95a-65e4-4be0-90e0-2883fadff741,modoc.careers,available,28.98,89.98,high,low,5,namecheap,,,02/10/2026 09:46
 f0037455-c6c8-448d-a6cc-3232e7a6f6ac,aspidistra.careers,available,34.99,71.99,medium,low,10,namesilo,,,20/09/2026 15:15
 e09fe5c6-6e85-40ce-aa09-c58e5e1a4cbc,omit.careers,available,34.99,71.99,high,low,4,namesilo,,,30/09/2026 05:29
 e4c16149-58d6-40a6-b522-17781c48003e,bartender.careers,premium,260,260,high,low,9,namecheap,,,22/09/2026 06:18
@@ -322,6 +344,7 @@ c7ebb16a-5303-4008-b692-9aa65066ef43,distinguish.careers,available,55.2,55.2,med
 5baa78f5-b548-4f4e-b3b2-37b7146db71e,liberated.careers,available,28.98,89.98,high,low,9,namecheap,,,16/08/2026 06:20
 17526856-5ff0-4c85-b3cc-03cb33ee3cd9,axilla.careers,available,28.98,89.98,medium,low,6,namecheap,,,20/09/2026 07:40
 475fa593-f5d4-42c9-a18e-60c1eea5a7e3,homeric.careers,available,28.98,89.98,medium,low,7,namecheap,,,08/09/2026 09:34
+99481711-20ba-45a2-83b9-e780156810b1,rallied.careers,available,34.99,71.99,medium,low,7,namesilo,,,02/10/2026 23:05
 a86f1fc6-bc59-44ab-894c-18b81ff00373,hurricane.careers,available,26.08,57.13,high,low,9,spaceship,,,27/09/2026 14:11
 528d0a05-a911-419d-84fd-d0a98e277d52,bawl.careers,available,34.99,71.99,medium,low,4,namesilo,,,23/09/2026 06:25
 1a4a62cb-08c9-46af-8606-d709cb3b9166,borrowing.careers,available,34.99,71.99,medium,low,9,namesilo,,,28/09/2026 09:11
@@ -348,6 +371,7 @@ ececc169-b0ca-4bfc-9d41-ff17b9953feb,morrow.careers,available,26.08,57.13,high,l
 2a879cb7-7dce-464a-b77e-d97b0b34c262,calico.careers,available,28.98,89.98,high,low,6,namecheap,,,11/08/2026 14:19
 d60efd41-6ce8-44be-a5b2-c363a46bb799,jesuit.careers,available,28.98,89.98,high,low,6,namecheap,,,22/08/2026 13:03
 69800bd9-8787-42f6-8db9-019c424ae02a,heating.careers,available,28.98,89.98,high,low,7,namecheap,,,13/09/2026 08:24
+b4d5a8b9-1c1f-4af7-a9d1-a78dbbfb2010,tir.careers,available,26.08,57.13,high,low,3,spaceship,,,03/10/2026 03:59
 f164edf5-7673-4d6b-ba85-71234d85fe5c,required.careers,available,28.98,89.98,high,low,8,namecheap,,,23/09/2026 18:27
 5aac7c8e-be3b-41a2-9b1e-eb5f8400cbe6,emma.careers,available,28.98,89.98,high,medium,4,namecheap,,,25/09/2026 12:33
 78f2a2e1-8f85-424b-8472-9ea21bd43f2f,notices.careers,available,34.99,71.99,medium,low,7,namesilo,,,20/09/2026 07:18
@@ -385,11 +409,12 @@ ef28ea35-97ad-478d-afe9-e30920967086,moody.careers,available,28.98,89.98,high,lo
 1443972b-021d-4748-bc8f-dc06b29344ce,yelling.careers,available,26.08,57.13,high,low,7,spaceship,,,28/09/2026 06:53
 9c7b5b23-1101-45d6-bc5a-2c500ecca82b,xian.careers,available,26.08,57.13,high,low,4,spaceship,,,30/09/2026 16:40
 da4cdc44-dff6-44b6-950b-5b0923b653a4,emissions.careers,available,26.08,57.13,medium,low,9,spaceship,,,01/10/2026 14:49
+ebe2499a-80be-44fc-a0a3-d3114310d4d8,bunn.careers,available,26.08,57.13,high,low,4,spaceship,,,02/10/2026 07:55
 db6238be-d9df-4c1c-a3de-9a254f486ac3,hypnotized.careers,available,28.98,89.98,high,low,10,namecheap,,,17/08/2026 22:46
 d0751240-f5cc-4a9e-a320-6bd0f1b40e5a,digestive.careers,available,28.98,89.98,high,low,9,namecheap,,,24/08/2026 15:24
 8aee3c77-3d75-4307-82c6-42f15ee34370,proclaiming.careers,available,26.08,57.13,high,low,11,spaceship,,,01/10/2026 23:56
 297045ad-f993-4af6-8260-9daa3be62ee0,son.careers,available,34.99,71.99,high,low,3,namesilo,,,25/09/2026 09:05
-2984505c-70f0-44b4-807d-387a7eba7731,disruptive.careers,available,26.08,57.13,medium,low,10,spaceship,,,28/09/2026 07:50
+2984505c-70f0-44b4-807d-387a7eba7731,disruptive.careers,available,55.2,55.2,medium,low,10,cloudflare,,,02/10/2026 11:08
 2a5298d1-890d-46f3-a3c7-2d6c3e718df4,galleries.careers,available,16.27,59.07,medium,low,9,dynadot,,,30/09/2026 07:08
 515497dc-4c4c-4ef6-afe2-83910d858d74,ambo.careers,available,34.99,71.99,medium,low,4,namesilo,,,18/09/2026 17:17
 074934c3-2834-42ea-aeba-61c715f33dd3,withered.careers,available,28.98,89.98,medium,low,8,namecheap,,,14/08/2026 19:11
@@ -407,9 +432,11 @@ aedfaef0-8076-42b3-be03-d62589a12755,moribund.careers,available,28.98,89.98,medi
 511ad791-0bae-42f8-945e-1dc0ab773bb7,quelled.careers,available,28.98,89.98,medium,low,7,namecheap,,,09/09/2026 08:24
 7349d1b4-80a7-4af3-bcd0-ac48e9b6158d,bile.careers,available,34.99,71.99,medium,low,4,namesilo,,,23/09/2026 15:41
 9ae3f2b9-5e5d-40e8-a239-3fd45385fa30,naturalism.careers,available,26.08,57.13,high,low,10,spaceship,,,29/09/2026 13:32
+b320af8e-059f-403a-b652-9f625ccf2b5b,varanasi.careers,available,55.2,55.2,medium,low,8,cloudflare,,,02/10/2026 09:36
 0388d6d2-525d-4cd1-a330-b2a2ab1eb712,darpa.careers,available,26.08,57.13,medium,low,5,spaceship,,,01/10/2026 19:10
-ee8e7058-3b6f-4624-8a0b-84bd70ca6eaf,precipitous.careers,available,49.99,,medium,low,11,name.com,,,
+ee8e7058-3b6f-4624-8a0b-84bd70ca6eaf,precipitous.careers,available,55.2,55.2,medium,low,11,cloudflare,,,02/10/2026 18:36
 519513ee-f003-4b03-b9aa-bae93a5395db,savage.careers,available,28.98,89.98,high,low,6,namecheap,,,08/08/2026 15:36
+9efbf17b-d842-4ea9-8741-10ca0ee352aa,enriched.careers,available,34.99,71.99,medium,low,8,namesilo,,,02/10/2026 22:01
 7174a6be-542e-43e0-adcd-d5fe22a14b19,valleys.careers,available,34.99,71.99,medium,low,7,namesilo,,,30/09/2026 07:06
 760f8acd-bd0a-411c-98aa-e5f17669a293,mena.careers,available,26.08,57.13,high,low,4,spaceship,,,29/09/2026 22:04
 c1767925-0f38-496b-858c-132e6eca33c8,amnic.careers,available,28.98,89.98,medium,low,5,namecheap,,,
@@ -426,22 +453,24 @@ e7477cc9-7309-4b11-982c-083463315df2,perceptive.careers,available,28.98,89.98,hi
 0196aad2-de4c-4c41-af0c-beab8dcf0b04,november.careers,available,28.98,89.98,high,low,8,namecheap,,,30/09/2026 05:53
 8cb7730e-d526-453e-8ade-a0cc84283bd7,shock.careers,available,26.08,57.13,high,low,5,spaceship,,,29/09/2026 13:09
 b49a19c2-4cbc-4224-aec3-ffafc83c57de,unsociable.careers,available,28.98,89.98,medium,low,10,namecheap,,,12/09/2026 20:09
+d3912212-9db0-40c8-9e61-5b5944dc8855,vms.careers,available,26.08,57.13,high,low,3,spaceship,,,02/10/2026 20:08
 947fef14-bd3e-494a-a8fb-6ac9e1da852c,bumping.careers,available,34.99,71.99,high,low,7,namesilo,,,01/10/2026 06:22
 98c42354-21ba-4fd2-8da8-2209c9571a2e,dizzy.careers,available,28.98,89.98,high,low,5,namecheap,,,
 5af5ec9c-ccd6-4ee5-be18-73d6986be261,beholding.careers,available,28.98,89.98,medium,low,9,namecheap,,,10/09/2026 01:47
 80bb9e30-02da-451a-9965-fb38e2b442d6,torrey.careers,available,16.27,59.07,medium,low,6,dynadot,,,29/09/2026 09:58
-04f8f5d9-8c91-46e7-ac38-7391fa205830,restriction.careers,available,49.99,,high,low,11,name.com,,,
+04f8f5d9-8c91-46e7-ac38-7391fa205830,restriction.careers,available,26.08,57.13,high,low,11,spaceship,,,03/10/2026 01:00
 3e4ae4ad-99e4-4825-8092-4939db1e033f,appleton.careers,available,28.98,89.98,medium,low,8,namecheap,,,19/09/2026 21:41
 5d62c346-a04a-44a4-8264-71acaa09c601,blt.careers,available,34.99,71.99,high,low,3,namesilo,,,21/09/2026 16:25
 fed8f813-1dd8-40e5-aa42-ac1745445e19,satiable.careers,available,28.98,89.98,medium,low,8,namecheap,,,09/09/2026 21:37
 623a5902-9fb8-488c-bcd2-6515522a9dbb,combination.careers,available,28.98,89.98,high,low,11,namecheap,,,27/09/2026 02:14
 d97965f2-76ea-47fa-99db-284824392021,goldbrick.careers,available,28.98,89.98,medium,low,9,namecheap,,,20/08/2026 16:29
-539d8e7e-a419-411b-81cd-aaa3ef14ca6f,exchange.careers,premium,512,512,high,low,8,namesilo,,,30/09/2026 13:42
+539d8e7e-a419-411b-81cd-aaa3ef14ca6f,exchange.careers,premium,440,440,high,low,8,dynadot,,,02/10/2026 23:42
 f42cd7b3-d115-4bfb-a379-72fddf882e7a,soppy.careers,available,28.98,89.98,medium,low,5,namecheap,,,09/08/2026 01:14
 72df06e3-acab-43c1-9b05-b30b0f874591,rebellious.careers,available,28.98,89.98,medium,low,10,namecheap,,,14/08/2026 09:25
 7ece90c7-b4ff-4dbf-899a-f2f18c02f0ee,chunks.careers,available,34.99,71.99,medium,low,6,namesilo,,,18/09/2026 14:56
 c1fab5de-4a43-4fcd-8afa-a74e95102c2b,measurement.careers,available,55.2,55.2,high,low,11,cloudflare,,,01/10/2026 14:29
 a00a77d2-c290-4fb2-b804-d4ead8260979,algorithm.careers,available,28.98,89.98,high,low,9,namecheap,,,18/09/2026 07:16
+fa6cfe5c-699b-4c9a-9a9b-caa33723c87e,chemnitz.careers,available,16.27,59.07,medium,low,8,dynadot,,,02/10/2026 23:59
 b29bf25f-4929-44c7-bf57-9438ff3ba8b5,prokhorov.careers,available,34.99,71.99,high,low,9,namesilo,,,18/09/2026 05:06
 766bf645-82db-4dd7-a1d5-42955d05aec6,erectile.careers,available,28.98,89.98,medium,low,8,namecheap,,,17/08/2026 12:07
 ca50ab52-63b4-45de-8eb4-1dd653a0b92a,handler.careers,available,34.99,71.99,high,low,7,namesilo,,,19/09/2026 08:51
@@ -450,6 +479,7 @@ bc105579-ddaa-461b-8e96-d18b62a891d7,dizzily.careers,available,28.98,89.98,mediu
 026edbf7-b23d-4fef-b287-6074d0cb2d48,britton.careers,available,15.96,57.16,medium,low,7,porkbun,,,28/09/2026 12:10
 51e882a6-9a99-4292-88f5-dac2ba1bfd76,spineless.careers,available,28.98,89.98,medium,low,9,namecheap,,,22/08/2026 08:58
 f99f94ef-bc03-4d92-8186-9f508e144002,exothermic.careers,available,28.98,89.98,medium,low,10,namecheap,,,17/08/2026 17:46
+028cc158-3c89-4155-a9f8-8788b146ba34,advises.careers,available,55.2,55.2,medium,low,7,cloudflare,,,02/10/2026 11:46
 dbd94223-4182-4b05-a640-03de228aebda,proprietor.careers,available,28.98,89.98,high,low,10,namecheap,,,30/09/2026 10:42
 a0acdc03-b917-4bc8-ab8b-bcb7d8de6b80,crows.careers,available,34.99,71.99,high,low,5,namesilo,,,20/09/2026 17:41
 952c91c0-b5a9-4887-af25-73933b7bdc00,cavalry.careers,available,26.08,57.13,high,low,7,spaceship,,,28/09/2026 09:16
@@ -493,6 +523,7 @@ cfe1c393-05d0-4e45-8d15-d6f295e4e2f3,badmouth.careers,available,28.98,89.98,medi
 a2844fea-6661-4e8f-8496-62ab430ede30,calmly.careers,available,28.98,89.98,high,low,6,namecheap,,,14/09/2026 05:04
 d6212e52-b938-4517-aa21-1c07eb2c0e81,rustling.careers,available,28.98,89.98,high,low,8,namecheap,,,03/09/2026 11:20
 387bdc33-7716-4e2c-a40c-e946913d9736,polly.careers,available,26.08,57.13,high,low,5,spaceship,,,28/09/2026 07:34
+022b3c35-8a42-4b6f-a43b-94237ba1c0a7,santi.careers,available,28.98,89.98,medium,low,5,namecheap,,,02/10/2026 20:15
 e4cfa23b-12bb-47d9-a886-3aa03f50b1a0,observation.careers,available,26.08,57.13,high,low,11,spaceship,,,02/10/2026 04:26
 24e3d065-28e6-43b7-903c-327c1d806ca9,cruciate.careers,available,28.98,89.98,medium,low,8,namecheap,,,13/08/2026 08:40
 a819d702-3bf8-4206-9035-cdfbaac606ec,mansions.careers,available,26.08,57.13,medium,low,8,spaceship,,,01/10/2026 17:28
@@ -518,6 +549,7 @@ c5c3d230-97e0-4b13-800f-c140da7f1824,scaly.careers,available,28.98,89.98,medium,
 d8939518-c620-477a-8a87-845c1ae5b321,commonly.careers,available,16.27,59.07,medium,low,8,dynadot,,,28/09/2026 14:12
 ee443a3b-1e87-4088-ba37-250ed42000a0,fingerprint.careers,available,34.99,71.99,high,low,11,namesilo,,,29/09/2026 08:29
 0be90e96-3a09-46c6-89c0-563c337ab5d7,muscular.careers,available,28.98,89.98,high,low,8,namecheap,,,11/08/2026 02:50
+1eb7357d-3aea-424f-ac7d-2184daae6cef,hdtv.careers,available,55.2,55.2,high,low,4,cloudflare,,,02/10/2026 15:39
 1cc8a9f5-6de7-4acc-a66c-a7c6b7d85707,noyes.careers,available,28.98,89.98,medium,low,5,namecheap,,,18/09/2026 06:42
 bf511c06-8ae3-4270-bde5-dc78d490b16c,older.careers,available,34.99,71.99,high,low,5,namesilo,,,21/09/2026 22:32
 7037aff4-85dd-44ac-b265-59c4ebf81dbe,upmarket.careers,available,28.98,89.98,high,low,8,namecheap,,,12/09/2026 23:13
@@ -543,12 +575,16 @@ fb324d4b-45d1-4b5f-b964-c438751b2dd2,energies.careers,available,34.99,71.99,medi
 b60274bc-77a2-4dd7-a42e-ac5ef082722f,oops.careers,available,26.08,57.13,high,low,4,spaceship,,,01/10/2026 04:35
 87779f1d-5dcc-4b21-8a44-2ddeaa03bfb2,vibration.careers,available,34.99,71.99,high,low,9,namesilo,,,19/09/2026 17:28
 c3481b2b-f98f-4a9e-8c2b-872619a5ac2d,stuffer.careers,available,34.99,71.99,medium,low,7,namesilo,,,19/09/2026 08:48
+cf297186-1546-4db8-ba82-13c8cdb0399b,hypocritical.careers,available,16.27,59.07,medium,low,12,dynadot,,,02/10/2026 17:38
 df815cd1-1be8-4fd1-8d7e-964b52cab780,adolescents.careers,available,26.08,57.13,medium,low,11,spaceship,,,02/10/2026 01:52
+bf6a263d-e261-4b5e-bc21-12934d2cd754,vigilante.careers,available,34.99,71.99,high,low,9,namesilo,,,02/10/2026 06:38
 cbafe553-eead-41fe-a3ec-b5ea4cc97aa5,pond.careers,available,55.2,55.2,high,low,4,cloudflare,,,27/09/2026 15:18
 b0d11062-a0c9-4fa2-bb28-cf7d78f8cfc3,command.careers,available,34.99,71.99,high,low,7,namesilo,,,23/09/2026 13:28
 1ec73d7c-6ded-4e9e-a754-9ca9fce27e87,tipsy.careers,available,28.98,89.98,high,low,5,namecheap,,,11/09/2026 15:38
+8933b0ae-154e-4de6-b045-090746a6a0f5,purpura.careers,available,26.08,57.13,medium,low,7,spaceship,,,03/10/2026 01:46
 001f4cda-49ba-419c-b6cb-e2c2d2203651,ocher.careers,available,28.98,89.98,medium,low,5,namecheap,,,04/09/2026 00:31
 626dad2c-38d9-4643-a57a-03b74b5a48f2,gawky.careers,available,28.98,89.98,medium,low,5,namecheap,,,12/08/2026 13:06
+3e719aa2-cb9d-4fed-9fad-e017fe9b54a5,penned.careers,available,34.99,71.99,medium,low,6,namesilo,,,02/10/2026 23:05
 fda67065-ca57-46ce-9f75-e335e77e14fe,touchable.careers,available,28.98,89.98,high,low,9,namecheap,,,11/09/2026 07:57
 76d242e2-fce9-4bde-9d60-687164adf229,veinal.careers,available,28.98,89.98,low,low,6,namecheap,,,13/09/2026 01:51
 3d2399ed-1cc6-4e7a-9b27-cdffe5a49d8c,kharkov.careers,available,28.98,89.98,medium,low,7,namecheap,,,30/09/2026 17:47
@@ -557,21 +593,24 @@ fda67065-ca57-46ce-9f75-e335e77e14fe,touchable.careers,available,28.98,89.98,hig
 7e54aea5-bfe1-4412-8318-044c4ba589f7,shaft.careers,available,26.08,57.13,high,low,5,spaceship,,,29/09/2026 01:04
 7a919351-1d07-4b2b-ba6b-9f8e59522ae3,shoemaker.careers,available,26.08,57.13,medium,low,9,spaceship,,,01/10/2026 19:00
 b78e6918-6da6-454f-9168-0cd2d769c5eb,slain.careers,available,28.98,89.98,medium,low,5,namecheap,,,10/09/2026 09:53
+88dd3707-b06e-4c15-8717-14343873b1c4,differing.careers,available,55.2,55.2,high,low,9,cloudflare,,,02/10/2026 18:04
 a4024bd4-9db0-483c-a6a8-adeb7fb44048,sevastopol.careers,available,26.08,57.13,medium,low,10,spaceship,,,30/09/2026 18:36
 5439062c-89e5-4619-8040-0c03d2ad8d64,arikara.careers,available,34.99,71.99,medium,low,7,namesilo,,,20/09/2026 05:16
 0ebb259e-1884-4ece-925f-af68311f9b2e,randy.careers,available,28.98,89.98,medium,low,5,namecheap,,,21/08/2026 14:08
-615381fb-9001-46e6-b2bb-228cc3f1d4d5,pearls.careers,available,26.08,57.13,medium,low,6,spaceship,,,28/09/2026 08:25
+615381fb-9001-46e6-b2bb-228cc3f1d4d5,pearls.careers,available,28.98,89.98,high,low,6,namecheap,,,02/10/2026 12:35
 79e19455-410a-464a-ac0a-9bc9a3382137,voltaic.careers,available,28.98,89.98,medium,low,7,namecheap,,,18/08/2026 19:42
 45d85d3f-b685-47d3-9d1d-ef1a03363be2,wish.careers,available,34.99,71.99,high,low,4,namesilo,,,25/09/2026 13:40
 3050f6c6-fb6e-4324-914d-4fe633d8d6a0,under.careers,available,34.99,71.99,high,low,5,namesilo,,,28/09/2026 09:43
 ba802765-6509-4ad4-90a1-7fbe152ec3c3,howes.careers,available,34.99,71.99,medium,low,5,namesilo,,,01/10/2026 16:18
 637ea958-a18e-450c-b278-4dc2cbbda01b,nguyen.careers,available,26.08,57.13,high,low,6,spaceship,,,28/09/2026 04:48
+024fce51-b229-436e-a5f8-1aa8535d1213,orrin.careers,available,28.98,89.98,high,low,5,namecheap,,,02/10/2026 20:08
 de45ea4b-8a45-49cf-a5fb-972146634b2d,relinquish.careers,available,26.08,57.13,high,low,10,spaceship,,,01/10/2026 21:29
 c3cb00b5-d820-4266-8946-137c3ec69bc2,dirac.careers,available,15.96,57.16,medium,low,5,porkbun,,,29/09/2026 18:39
 16c7a579-b128-46d9-b5b8-b574dc3456db,mata.careers,available,15.96,57.16,medium,low,4,porkbun,,,28/09/2026 21:09
 9eba5f3b-777f-44f8-a3fd-a5577c1ae60f,magdalena.careers,available,34.99,71.99,medium,low,9,namesilo,,,28/09/2026 02:17
 7236a277-33e6-4bc5-b79e-2c7190dee7f2,francisco.careers,available,28.98,89.98,high,low,9,namecheap,,,25/09/2026 18:30
 5f0ec3e4-10ef-4854-b43b-319cb89a4a08,gallows.careers,available,34.99,71.99,medium,low,7,namesilo,,,30/09/2026 09:52
+b51d3b9a-15db-4dd2-925e-de3c6be86e49,nibble.careers,available,34.99,71.99,high,low,6,namesilo,,,03/10/2026 02:32
 eea02186-c270-4e6f-b1a1-b6f04acf0678,barkley.careers,available,34.99,71.99,high,low,7,namesilo,,,18/09/2026 02:32
 30449c22-ef30-4aaf-8f8c-62070d68946a,suggestive.careers,available,28.98,89.98,medium,low,10,namecheap,,,21/08/2026 22:34
 16fc7608-eab8-44e8-a679-569d545bc49d,virginia.careers,available,34.99,71.99,high,low,8,namesilo,,,25/09/2026 09:38
@@ -588,6 +627,7 @@ cb39b996-36d4-4a6f-baeb-63337f0b2e7c,themes.careers,available,15.96,57.16,medium
 0f9753f3-6bf7-45a6-b93a-9d7dc1ba79dd,collect.careers,available,28.98,89.98,high,low,7,namecheap,,,12/08/2026 15:03
 b06ed68f-8943-4f32-ab2a-b3b954e01e55,internship.careers,resell,,,high,low,10,,,,28/09/2026 10:09
 320204bd-5cea-4734-a41b-28aaa1307e73,audacity.careers,available,34.99,71.99,high,low,8,namesilo,,,21/09/2026 02:47
+4e99bb9e-070c-48dc-aed9-d911593afc1d,nunavut.careers,available,26.08,57.13,medium,low,7,spaceship,,,02/10/2026 05:58
 3d9f2de9-9dd8-4cb5-8c2d-85fe8613ed9c,papuan.careers,available,28.98,89.98,medium,low,6,namecheap,,,05/09/2026 01:44
 46d33aaf-974d-41fe-97d3-1c87e15e6460,desai.careers,available,26.08,57.13,high,low,5,spaceship,,,30/09/2026 12:39
 666f6e85-eda2-404d-a8e1-22f81067a8b3,interact.careers,available,26.08,57.13,high,low,8,spaceship,,,30/09/2026 20:24
@@ -606,7 +646,7 @@ eea9c791-d91c-4d2c-a133-c72a4e3cc4d6,carrick.careers,available,16.27,59.07,mediu
 f6650c3c-40f1-45e5-949c-9b0d6915a8e2,odessa.careers,available,26.08,57.13,high,low,6,spaceship,,,01/10/2026 03:08
 7160c33b-2ba9-414c-a904-f4c782cb5481,bermudian.careers,available,28.98,89.98,medium,low,9,namecheap,,,09/08/2026 15:15
 11501517-4272-41a9-866c-4e8773d72eb2,questionable.careers,available,55.2,55.2,medium,low,12,cloudflare,,,29/09/2026 02:59
-a512c734-38c8-4793-ae11-bf4ecbc16c67,arriving.careers,available,49.99,,medium,low,8,name.com,,,
+a512c734-38c8-4793-ae11-bf4ecbc16c67,arriving.careers,available,26.08,57.13,medium,low,8,spaceship,,,02/10/2026 17:03
 80e27ec8-6c41-49d5-9e9d-f67ce174dc66,chinch.careers,available,34.99,71.99,medium,low,6,namesilo,,,22/09/2026 22:46
 f04a04c0-c7e3-4eac-ad1d-5cf75a480a32,lovingly.careers,available,28.98,89.98,high,low,8,namecheap,,,14/09/2026 19:14
 b13087e7-c8d5-4dba-8e78-918672da7591,revolved.careers,available,34.99,71.99,medium,low,8,namesilo,,,27/09/2026 14:41
@@ -614,6 +654,7 @@ c7b2b817-e467-4b1e-a45d-5f9964218055,monterey.careers,available,34.99,71.99,high
 99c6ef12-ee54-4ff7-84b5-26f53c12af21,lakewood.careers,available,55.2,55.2,medium,low,8,cloudflare,,,28/09/2026 16:53
 953e234d-204e-4ae1-a04e-59f45e5a694e,ending.careers,available,34.99,71.99,high,low,6,namesilo,,,25/09/2026 05:36
 1e9a3e69-1d79-4a13-b57a-d1385d92df0d,clubs.careers,available,28.98,89.98,high,low,5,namecheap,,,27/09/2026 08:43
+8b3303c8-9b72-4444-b42e-c69920b2c7ef,distillery.careers,available,16.27,59.07,high,low,10,dynadot,,,03/10/2026 00:30
 15a281e1-88de-4cf2-a796-06b46477ff8d,artemisia.careers,available,28.98,89.98,high,low,9,namecheap,,,20/09/2026 10:15
 b1af286a-8c62-485b-879f-98f3563a6ee7,genuine.careers,available,34.99,71.99,high,low,7,namesilo,,,24/09/2026 13:20
 8bb16620-8d0f-4718-b988-08bdaec3aec1,cryptical.careers,available,28.98,89.98,medium,low,9,namecheap,,,11/08/2026 12:19
@@ -622,6 +663,7 @@ cdf1aa4c-cd41-4e8e-a5ce-f1e80a805aad,altoona.careers,available,34.99,71.99,mediu
 3dc60a9f-f1b3-4236-adb1-e723746be126,allsorts.careers,available,34.99,71.99,low,low,9,namesilo,,,16/09/2026 05:53
 eb257fcd-3b7e-4da8-b1f3-a46d337b26e2,holey.careers,available,28.98,89.98,medium,low,5,namecheap,,,21/08/2026 10:23
 6fe90a27-a204-4d7d-965b-29be72c83274,swords.careers,available,49.99,,medium,low,6,name.com,,,
+cf3e7552-bccc-42c5-8d53-7c7724f6864b,rolle.careers,available,26.08,57.13,medium,low,5,spaceship,,,02/10/2026 07:36
 e992dfbb-4560-496e-ae2d-7f984781f1fe,entrance.careers,available,28.98,89.98,high,low,8,namecheap,,,22/08/2026 01:46
 966bfe13-13df-45fc-bc72-9f0326d507ea,throng.careers,available,28.98,89.98,high,low,6,namecheap,,,24/09/2026 17:08
 500fb91a-c52b-4544-a1f8-c04795126069,ans.careers,available,34.99,71.99,medium,low,3,namesilo,,,19/09/2026 12:01
@@ -640,7 +682,10 @@ e2bca44f-125a-487b-90c9-92fd43c4d1ad,showing.careers,available,34.99,71.99,high,
 5fad00fb-73e8-4712-b923-c291bbb2b3f0,keenly.careers,available,28.98,89.98,high,low,6,namecheap,,,15/09/2026 10:20
 92921900-f365-4c3b-a8e1-ca89e6c56301,lifting.careers,available,55.2,55.2,high,low,7,cloudflare,,,28/09/2026 04:32
 54fc2902-7680-457a-a633-e082e8f8f34f,machinery.careers,available,26.08,57.13,high,low,9,spaceship,,,01/10/2026 03:43
+56731b33-63bd-41ff-9098-9be8dcc59f41,axel.careers,available,26.08,57.13,high,low,4,spaceship,,,02/10/2026 06:59
 0da0ef48-3f36-4987-a0cf-8bec1d91864d,chamfer.careers,available,28.98,89.98,medium,low,7,namecheap,,,23/09/2026 12:00
+cdcb511c-d58c-4a26-b298-1998143d2898,shanahan.careers,available,34.99,71.99,medium,low,8,namesilo,,,02/10/2026 12:38
+ab50b980-25f5-4217-89fc-4eb98a8ba7a6,mccomb.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 20:13
 1d7041d3-9137-4287-a11a-1894fa0cdf91,barron.careers,available,34.99,71.99,high,low,6,namesilo,,,27/09/2026 08:02
 349effbe-81f5-49dc-a772-cf614f34a567,despot.careers,available,28.98,89.98,medium,low,6,namecheap,,,21/09/2026 06:11
 7d4d9060-aa5c-4fda-a14a-de739d30c282,lovelace.careers,available,26.08,57.13,high,low,8,spaceship,,,30/09/2026 10:29
@@ -663,6 +708,7 @@ a6ea89a3-42cd-4e40-8c6b-62b8855019c2,windshield.careers,available,34.99,71.99,hi
 a501c8c9-0709-43d8-8d96-9441cf7f018c,towel.careers,available,34.99,71.99,high,low,5,namesilo,,,28/09/2026 03:13
 0636eff1-9c51-43b8-9a85-abb1a5954caf,hasten.careers,available,28.98,89.98,high,low,6,namecheap,,,09/09/2026 19:47
 2f914639-99c5-46aa-b013-8401eb0bf8a1,myoid.careers,available,28.98,89.98,low,low,5,namecheap,,,03/09/2026 12:10
+1be81e71-5959-4419-b93d-251e85347596,garter.careers,available,16.27,59.07,high,low,6,dynadot,,,03/10/2026 00:53
 45da763e-4806-40ff-bcf1-5e66b433f4b8,lucie.careers,available,16.27,59.07,medium,low,5,dynadot,,,28/09/2026 21:31
 f64a56e7-88b2-47ec-a67b-ec29a786b95a,outwear.careers,available,28.98,89.98,medium,low,7,namecheap,,,13/09/2026 09:15
 a2df5e04-fd01-449b-9f73-072ae48d2b8f,boreas.careers,available,28.98,89.98,medium,low,6,namecheap,,,03/09/2026 21:36
@@ -670,8 +716,10 @@ a2df5e04-fd01-449b-9f73-072ae48d2b8f,boreas.careers,available,28.98,89.98,medium
 5bf090bf-eeb0-4ea7-919b-893ff6ed3f97,crowe.careers,available,26.08,57.13,medium,low,5,spaceship,,,28/09/2026 12:13
 37bae65a-af2d-4ca7-8b09-95549752d423,banquette.careers,available,34.99,71.99,medium,low,9,namesilo,,,22/09/2026 03:08
 ef66acd5-e0ee-4911-9dc3-14b4c98a1469,negligible.careers,available,28.98,89.98,medium,low,10,namecheap,,,03/09/2026 15:08
+c476f7f1-924b-4518-8e05-bb277ae01d7c,marisa.careers,available,26.08,57.13,high,low,6,spaceship,,,02/10/2026 19:52
 572fc80f-9cd8-4c37-8b9f-1da5158f113a,lutetium.careers,available,34.99,71.99,medium,low,8,namesilo,,,20/09/2026 23:39
 641fa24d-92c2-43ea-a0e7-a8e4a2094512,bailiwick.careers,available,28.98,89.98,medium,low,9,namecheap,,,21/09/2026 19:08
+7649ceb6-eba7-4996-a2f4-775203785231,audiencia.careers,available,55.2,55.2,high,low,9,cloudflare,,,02/10/2026 18:30
 60fd3551-e528-4342-8069-d88d718265c9,robbed.careers,available,28.98,89.98,low,low,6,namecheap,,,27/09/2026 02:44
 a825d843-ea3f-4b43-8652-abb30b8daa46,deserve.careers,available,34.99,71.99,high,low,7,namesilo,,,25/09/2026 23:40
 7096ebb8-d181-43c2-acf7-22c0ce9e808a,flowed.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 02:35
@@ -689,6 +737,8 @@ e7b03bf3-e44e-4d5f-9a9c-01c6f5836451,actuality.careers,available,28.98,89.98,hig
 031290bc-2dc5-47e4-a9af-a0373bb00a47,terbium.careers,available,34.99,71.99,medium,low,7,namesilo,,,20/09/2026 23:28
 983fcfc5-f3f6-4e7a-8ef5-2c021777b318,mush.careers,available,34.99,71.99,high,low,4,namesilo,,,02/10/2026 04:27
 438595f5-fa62-4a6a-91a7-d6650f395cb8,bicolor.careers,available,28.98,89.98,high,low,7,namecheap,,,09/08/2026 19:11
+50db8ebf-e0cc-44bd-8f60-8ee320660bcc,palacios.careers,available,26.08,57.13,medium,low,8,spaceship,,,02/10/2026 20:39
+60744856-a01d-4a67-87d8-8dfd1b112df1,madge.careers,available,26.08,57.13,medium,low,5,spaceship,,,03/10/2026 03:01
 31f8a8c4-1dc2-4787-bf25-489a6258be58,volunteered.careers,available,26.08,57.13,medium,low,11,spaceship,,,28/09/2026 09:06
 a5cdd9e3-fa2b-4935-a2e0-8e8929988140,saginaw.careers,available,26.08,57.13,medium,low,7,spaceship,,,28/09/2026 03:02
 bd42e589-2fcb-4c1f-9401-b890f6aa52ce,jug.careers,available,34.99,71.99,high,low,3,namesilo,,,29/09/2026 12:28
@@ -698,10 +748,14 @@ f2f6325a-f9b1-4162-a714-ddb04330b3f0,molly.careers,available,55.2,55.2,high,low,
 527a1690-c6d6-4f48-9de0-7cadbf039346,electoral.careers,available,28.98,89.98,medium,low,9,namecheap,,,16/08/2026 02:37
 f99f0458-23b6-448f-a72b-cc525058808f,bilgewater.careers,available,34.99,71.99,medium,low,10,namesilo,,,21/09/2026 23:46
 fece8327-5451-400e-a1ca-dd2fd8418c1b,systematically.careers,available,49.99,,medium,low,14,name.com,,,
+48fb2a79-9a22-40bf-9f12-587044577b08,argues.careers,available,16.27,59.07,medium,low,6,dynadot,,,02/10/2026 13:47
+11b92acb-4f63-4ac7-9828-13384a53af1a,bmp.careers,available,26.08,57.13,high,low,3,spaceship,,,02/10/2026 18:50
 caf5c48c-8d4b-4995-a1e8-f1f3768e884a,gods.careers,available,49.99,,high,low,4,name.com,,,
 a1ef6cc3-063a-44d0-804f-e2a3c9e43bff,glass.careers,premium,512,512,high,low,5,namesilo,,,29/09/2026 14:00
 fdaa6716-e815-4b0d-91a1-915293818ea6,censure.careers,available,34.99,71.99,medium,low,7,namesilo,,,19/09/2026 08:29
 cf05fdde-f5d7-4e51-b4a3-29ff5a1c7665,spit.careers,available,28.98,89.98,medium,low,4,namecheap,,,15/09/2026 20:17
+c7851f04-0320-44fc-bf88-647c986425d4,donatello.careers,available,26.08,57.13,high,low,9,spaceship,,,02/10/2026 14:52
+464fd405-7ec1-4282-8d37-dbfaf4b098af,himalayas.careers,available,28.98,89.98,high,low,9,namecheap,,,02/10/2026 15:43
 e9d8598b-b845-4ae4-87a6-b084fe9ffdd6,maladroit.careers,available,28.98,89.98,medium,low,9,namecheap,,,24/08/2026 13:35
 75aeee3b-58b1-4662-8f6d-768b130397b8,issn.careers,available,34.99,71.99,high,low,4,namesilo,,,01/10/2026 07:15
 817d1898-db36-4e1e-bc4d-56e66fcee9d6,socrates.careers,available,26.08,57.13,high,low,8,spaceship,,,29/09/2026 20:25
@@ -728,6 +782,7 @@ d42bd62c-1789-4a77-b6b6-f9b5e67d8c4a,benzyl.careers,available,29.99,94.99,high,l
 51822307-7732-4295-8ff2-cfd3631a48be,forman.careers,available,15.96,57.16,high,low,6,porkbun,,,29/09/2026 09:59
 c7abccaa-7cdf-4ae5-a087-e00be60936dd,socialized.careers,available,28.98,89.98,medium,low,10,namecheap,,,10/09/2026 13:12
 962002e0-ab67-40fa-ae8f-88cd86e77729,credendum.careers,available,28.98,89.98,medium,low,9,namecheap,,,20/09/2026 11:13
+6b7801a9-8f2d-4aea-82ea-4d0d74367272,galen.careers,available,28.98,89.98,high,low,5,namecheap,,,02/10/2026 15:22
 74e7da7c-5d72-4a01-9db1-a6313733c2d1,stronger.careers,available,49.99,,high,low,8,name.com,,,
 625bf158-c8a6-4cc7-a141-2b1d6d2cf217,chelate.careers,available,28.98,89.98,medium,low,7,namecheap,,,12/08/2026 04:03
 7d1e1c55-3f13-4f48-890d-c8e6f32b429f,ruffle.careers,available,28.98,89.98,high,low,6,namecheap,,,11/09/2026 05:07
@@ -739,6 +794,7 @@ ebd590fe-0365-4aea-b391-525f0b92815a,mauve.careers,available,28.98,89.98,high,lo
 9c38d183-b9ef-432c-acd9-7591e9193ed3,clxx.careers,available,28.98,89.98,medium,low,4,namecheap,,,
 f5aeb7af-e4f2-424a-b7fe-12460cb967ea,limber.careers,available,28.98,89.98,high,low,6,namecheap,,,23/08/2026 11:08
 39b6c53b-d1b7-4f95-949e-1d9b36947a59,completes.careers,available,55.2,55.2,medium,low,9,cloudflare,,,01/10/2026 17:08
+3858dee3-c652-4e81-b68a-5242d01019bd,quine.careers,available,34.99,71.99,high,low,5,namesilo,,,03/10/2026 01:52
 823d7dfc-f37c-4518-adb4-f03191b105c7,username.careers,available,16.27,59.07,high,low,8,dynadot,,,01/10/2026 05:01
 341ca617-0c78-4389-b426-bc58df63cf07,unfeasible.careers,available,28.98,89.98,medium,low,10,namecheap,,,21/08/2026 22:56
 eb5efe6b-739f-46db-b9c5-66f5953fb720,rode.careers,available,26.08,57.13,medium,low,4,spaceship,,,28/09/2026 11:10
@@ -777,6 +833,8 @@ dd852d74-ac70-4917-9815-a55a13b003fa,aloes.careers,available,34.99,71.99,medium,
 2648d444-6d43-4e62-9f8f-203b52e7d6f1,argil.careers,available,34.99,71.99,medium,low,5,namesilo,,,20/09/2026 04:20
 157c0ec4-0467-4d42-986d-b570d76019fb,incessant.careers,available,28.98,89.98,high,low,9,namecheap,,,11/08/2026 23:04
 6797e246-426e-47ab-aafe-1004755bc745,stops.careers,available,34.99,71.99,high,low,5,namesilo,,,30/09/2026 12:10
+9c5b8c5e-6829-4c33-a453-fffc03d45010,speck.careers,available,28.98,89.98,medium,low,5,namecheap,,,02/10/2026 14:45
+ca37ed19-2c51-4c6b-af01-e7959c61530d,annihilation.careers,available,26.08,57.13,medium,low,12,spaceship,,,02/10/2026 21:42
 82851082-4903-4249-90c6-29cebef781af,fits.careers,available,34.99,71.99,medium,low,4,namesilo,,,18/09/2026 18:43
 8cd113ab-6d0d-4c8a-ae35-bf48eb068bd8,threadfish.careers,available,34.99,71.99,medium,low,10,namesilo,,,18/09/2026 04:49
 6e655ebf-f957-4928-930f-6ff84f81fa80,heterodox.careers,available,28.98,89.98,medium,low,9,namecheap,,,14/08/2026 12:37
@@ -816,10 +874,10 @@ fc14f58a-bdad-40ca-967a-0fd9e2538782,octavia.careers,available,55.2,55.2,high,lo
 de5a3f4f-9175-4b4a-b7de-482bab8a524c,beady.careers,available,28.98,89.98,medium,low,5,namecheap,,,09/08/2026 03:23
 afe6bb54-3a35-4676-8e64-58f5412aa3bd,odorless.careers,available,28.98,89.98,medium,low,8,namecheap,,,22/08/2026 06:02
 24f74912-e89a-4eb6-802e-188bae3b0241,bangle.careers,available,34.99,71.99,high,low,6,namesilo,,,22/09/2026 01:57
-8f465a9c-c33d-4d39-91e5-eeed71c6e4c1,gregorio.careers,available,49.99,,high,low,8,name.com,,,
+8f465a9c-c33d-4d39-91e5-eeed71c6e4c1,gregorio.careers,available,26.08,57.13,high,low,8,spaceship,,,02/10/2026 13:29
 040c0a10-b662-4543-8b2c-dddc73ffed9e,taipei.careers,available,34.99,71.99,high,low,6,namesilo,,,29/09/2026 07:03
 67b86ed0-b3d4-46bd-8271-4a7b26ba9d9b,scoff.careers,available,28.98,89.98,medium,low,5,namecheap,,,22/08/2026 12:41
-6cde1769-cd33-4784-91ea-8dac96cbfae1,boutique.careers,premium,,,high,low,8,,,,29/09/2026 02:31
+6cde1769-cd33-4784-91ea-8dac96cbfae1,boutique.careers,premium,414.2,414.2,high,low,8,spaceship,,,02/10/2026 10:33
 e48ea4f3-9953-4eee-873c-fc69612f5a30,tasteless.careers,available,28.98,89.98,medium,low,9,namecheap,,,11/09/2026 09:02
 a496f8c8-df29-4856-b136-be71474cbcaa,honour.careers,available,34.99,71.99,high,low,6,namesilo,,,16/09/2026 22:47
 f316e847-6191-4160-ad71-54d08bf67e6c,bellis.careers,available,34.99,71.99,high,low,6,namesilo,,,23/09/2026 06:15
@@ -833,26 +891,31 @@ db9b3435-6176-4451-94a9-808727c2b54b,judea.careers,available,16.27,59.07,medium,
 05ad6184-b3a4-4ff0-82b1-31862997d349,winsomely.careers,available,28.98,89.98,medium,low,9,namecheap,,,14/09/2026 15:43
 fb4663bd-642a-47b1-8982-53de9833a366,oldfield.careers,available,34.99,71.99,medium,low,8,namesilo,,,22/09/2026 06:52
 2a6f8a09-7c3c-4f65-85ed-c469a6baece6,veiled.careers,available,28.98,89.98,medium,low,6,namecheap,,,13/09/2026 01:50
-4d1e2cf8-da04-4fa6-8bb7-01964c43977b,laura.careers,available,49.99,,high,low,5,name.com,,,
+4d1e2cf8-da04-4fa6-8bb7-01964c43977b,laura.careers,available,34.99,71.99,high,low,5,namesilo,,,02/10/2026 08:33
 22e77038-1c3e-4b6f-ae37-136c9c97665e,leukaemia.careers,available,34.99,71.99,medium,low,9,namesilo,,,24/09/2026 11:59
 69d3c18b-de79-48f4-8f6a-ff754ed0dea3,strindberg.careers,available,34.99,71.99,medium,low,10,namesilo,,,21/09/2026 03:49
 ef3430c9-d4f5-46e0-9620-a000d67a6cd9,provoking.careers,available,28.98,89.98,high,low,9,namecheap,,,
 851c820b-ad8e-4a09-bc70-35fa225d1404,lubricious.careers,available,28.98,89.98,medium,low,10,namecheap,,,24/08/2026 10:50
+a335428a-e608-4ec9-9c5c-b7db80a3ef8e,wieland.careers,available,26.08,57.13,medium,low,7,spaceship,,,03/10/2026 02:22
 d7bf66a4-b2bc-4707-b599-351760a16c05,cramp.careers,available,16.27,59.07,medium,low,5,dynadot,,,30/09/2026 16:50
+6d1d737f-89c8-40fe-9e0e-e93ec6f05318,lucile.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 19:50
 d82fcb19-d4d8-41f4-a2ac-0d94e2dc8eb7,link.careers,premium,414.2,414.2,high,medium,4,spaceship,,,29/09/2026 10:12
 f0fc7397-2def-4785-818a-11664e0fa489,prayer.careers,available,15.96,57.16,high,low,6,porkbun,,,28/09/2026 01:59
 7a76c56b-a1fd-48c7-8f3d-9c13e846949d,curves.careers,available,49.99,,medium,low,6,name.com,,,
 2fa92d10-ef5e-465f-80f9-333a15e1f5b4,fleeing.careers,available,15.96,57.16,medium,low,7,porkbun,,,29/09/2026 03:23
-f17af9aa-5eb9-4bc6-862c-52a8d2c8bc4b,schneider.careers,available,49.99,,high,low,9,name.com,,,
+f17af9aa-5eb9-4bc6-862c-52a8d2c8bc4b,schneider.careers,available,28.98,89.98,high,medium,9,namecheap,,,02/10/2026 09:33
 ad7eb7fb-b966-47bd-a631-9ef671812855,norse.careers,available,28.98,89.98,high,low,5,namecheap,,,03/09/2026 21:11
 3f17981c-61e6-41e7-99e5-5279b0a00457,faculties.careers,available,55.2,55.2,medium,low,9,cloudflare,,,30/09/2026 22:50
 d5e5afab-0e9b-43b7-8eeb-094969744cda,wrong.careers,available,28.98,89.98,high,low,5,namecheap,,,25/09/2026 07:41
 479a8dfd-dedf-417c-82e0-3e601e26fee7,antitoxin.careers,available,34.99,71.99,medium,low,9,namesilo,,,19/09/2026 15:12
 dbf706fc-e690-429a-993f-4905d15835fe,sylvia.careers,available,26.08,57.13,high,low,6,spaceship,,,27/09/2026 19:08
-ed7191f0-9083-4816-8046-32bdc76e28e6,computerized.careers,available,26.08,57.13,high,low,12,spaceship,,,28/09/2026 02:46
+ed7191f0-9083-4816-8046-32bdc76e28e6,computerized.careers,available,34.99,71.99,high,low,12,namesilo,,,02/10/2026 05:39
+19f98d79-ec43-477b-a0b9-9100d50c314a,fiasco.careers,available,34.99,71.99,medium,low,6,namesilo,,,02/10/2026 14:49
 8cc3d21a-e221-4efe-afa6-a1daa791e980,cared.careers,available,28.98,89.98,medium,low,5,namecheap,,,25/09/2026 19:49
+922c8b0a-dc3c-433b-8dca-088cfa742bfc,waiters.careers,available,34.99,71.99,medium,low,7,namesilo,,,02/10/2026 23:12
 d5d7e15c-4e2d-4ef0-8296-a82fd916d932,nai.careers,available,55.2,55.2,high,low,3,cloudflare,,,30/09/2026 04:12
 f7761232-cf8e-4311-bd10-aa4c30db1fe3,jfk.careers,available,26.08,57.13,high,low,3,spaceship,,,29/09/2026 13:11
+99c98245-b440-4181-83d7-980c80053077,nws.careers,available,34.99,71.99,high,low,3,namesilo,,,03/10/2026 04:47
 c9360be5-bc98-4c18-bfd8-c4ed50af6915,perform.careers,available,26.08,57.13,high,low,7,spaceship,,,30/09/2026 21:20
 bd459ec0-cbf1-4d6a-95cf-d07a5734fdef,isolation.careers,available,34.99,71.99,high,low,9,namesilo,,,24/09/2026 16:00
 f3a16097-700b-42e4-a5f9-7b20d16df97a,puck.careers,available,28.98,89.98,high,low,4,namecheap,,,30/09/2026 10:09
@@ -869,6 +932,7 @@ e6148856-e624-464d-b8f2-1527e931835b,haughty.careers,available,28.98,89.98,mediu
 4155d9b4-afce-4151-b7af-1bbc4f6479be,sparsely.careers,available,28.98,89.98,medium,low,8,namecheap,,,16/09/2026 05:55
 1bcd54fc-8174-49e0-bcc6-5ef77bc7bfb1,bonnet.careers,available,34.99,71.99,high,low,6,namesilo,,,24/09/2026 06:40
 69e01226-0ecd-48ef-832f-e578920fa6fe,dumps.careers,available,34.99,71.99,high,low,5,namesilo,,,30/09/2026 09:26
+840a3a52-e389-4e44-848f-773a1e2b7ee6,halted.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 22:13
 75d5efeb-59bd-4782-b2d1-c502f9af975e,truthful.careers,available,28.98,89.98,high,low,8,namecheap,,,11/09/2026 20:51
 d65c7853-4abc-4122-af93-46b04cc81760,raider.careers,available,26.08,57.13,medium,low,6,spaceship,,,02/10/2026 04:35
 ca90073a-1d9e-4e1b-823d-9a45fd6ae75b,harder.careers,available,34.99,71.99,medium,low,6,namesilo,,,26/09/2026 03:10
@@ -890,6 +954,7 @@ de42b3c1-a45a-4b91-b62e-766ee73f96df,aditi.careers,available,34.99,71.99,medium,
 248bb433-fc08-4be9-9c31-500e48588995,word.careers,available,28.98,89.98,high,low,4,namecheap,,,29/09/2026 02:21
 0320cbfa-e570-4461-8f76-25d1fdb41c33,bituminous.careers,available,28.98,89.98,high,low,10,namecheap,,,10/08/2026 08:53
 4b868ba0-5400-4d3b-9ff6-7961b305b7e0,tamable.careers,available,28.98,89.98,medium,low,7,namecheap,,,11/09/2026 07:36
+02f9b46c-9c94-4315-b3cb-9f0dcd1f0278,landlords.careers,available,26.08,57.13,medium,low,9,spaceship,,,02/10/2026 23:18
 1797ecad-06b5-4c8c-8a7d-445a4f6f3dff,aristocracy.careers,available,34.99,71.99,high,low,11,namesilo,,,30/09/2026 14:25
 954718da-ca30-4ed4-8637-ffcac838e5dd,npl.careers,available,55.2,55.2,medium,low,3,cloudflare,,,30/09/2026 20:55
 8996775a-aac7-4099-a7b0-c1225c8f238c,simms.careers,available,26.08,57.13,medium,low,5,spaceship,,,28/09/2026 16:38
@@ -903,7 +968,7 @@ c4f6a639-4d5c-48a7-b3fe-e544d4794d5a,pathological.careers,available,26.08,57.13,
 738d5cd2-1dea-4d87-a2a7-5bb64b0b114e,interred.careers,available,28.98,89.98,medium,low,8,namecheap,,,11/08/2026 10:36
 3e519fe9-be0e-459a-bf5e-a020ed35994b,despoiled.careers,available,28.98,89.98,medium,low,9,namecheap,,,14/08/2026 04:23
 d3f47f7a-bd4d-475f-8a32-14ade6ffb7a0,comte.careers,available,34.99,71.99,high,low,5,namesilo,,,21/09/2026 03:56
-b9720189-abf4-4853-a470-6a4bae6ee896,pies.careers,available,49.99,,medium,low,4,name.com,,,
+b9720189-abf4-4853-a470-6a4bae6ee896,pies.careers,available,26.08,57.13,medium,low,4,spaceship,,,02/10/2026 14:35
 8dbc6b7a-d378-4ba6-8724-e5ffbd60a4a2,pyretic.careers,available,28.98,89.98,medium,low,7,namecheap,,,09/09/2026 07:03
 c1785b14-9476-4514-94c5-9555ea123c3f,develop.careers,premium,512,512,high,low,7,namesilo,,,30/09/2026 13:46
 97088c53-833e-43fd-9294-1bb1fff01994,debts.careers,available,26.08,57.13,low,low,5,spaceship,,,28/09/2026 04:25
@@ -924,7 +989,7 @@ ec74ff79-d203-42f3-a657-508d7bc63561,naively.careers,available,28.98,89.98,mediu
 7420561e-59bf-4597-a241-b052a66125da,metabolous.careers,available,28.98,89.98,medium,low,10,namecheap,,,24/08/2026 21:28
 4718d32e-f795-4302-849c-8e16937bbb8c,landings.careers,available,16.27,59.07,medium,low,8,dynadot,,,30/09/2026 00:42
 f324137c-eb33-4685-b329-cae22e7b8ee4,arriver.careers,available,34.99,71.99,medium,low,7,namesilo,,,20/09/2026 09:16
-f957f881-bb78-45d5-9d55-32585cd3dcf9,collarbone.careers,available,49.99,,medium,low,11,name.com,,,
+f957f881-bb78-45d5-9d55-32585cd3dcf9,collarbone.careers,available,26.08,57.13,medium,low,11,spaceship,,,02/10/2026 19:12
 49b3c116-215b-4618-87a9-ab09fcbb03df,determine.careers,available,34.99,71.99,high,low,9,namesilo,,,30/09/2026 11:01
 8367f145-1500-432e-844e-d54184f67b7a,dads.careers,available,34.99,71.99,medium,low,4,namesilo,,,20/09/2026 10:27
 739102e0-cffe-47f9-b4c4-2574afe91e80,veal.careers,available,26.08,57.13,medium,low,4,spaceship,,,30/09/2026 14:19
@@ -934,68 +999,3 @@ ff17cdb9-327c-4f67-8224-86f9a3c157d4,sensory.careers,available,55.2,55.2,high,lo
 b6ba40fc-339b-4ffc-866f-c79b863c40f5,wayne.careers,available,34.99,71.99,high,low,5,namesilo,,,19/09/2026 13:47
 016416e4-7845-4ac6-b73a-ffe1749b1bfd,guatemalan.careers,available,28.98,89.98,high,low,10,namecheap,,,20/08/2026 20:45
 9f6508a0-856d-4911-a4ae-353bfee9b645,crinoid.careers,available,28.98,89.98,medium,low,7,namecheap,,,13/08/2026 06:58
-a09b6570-1696-471e-b09c-29d54dd96b28,soothing.careers,available,28.98,89.98,high,low,8,namecheap,,,07/08/2026 07:40
-5ce61cfb-c726-4807-a7aa-aa4c09d69185,restored.careers,available,26.08,57.13,high,low,8,spaceship,,,28/09/2026 11:28
-cff60464-9f1d-4e6c-a510-0af9e4fdd444,catalonia.careers,available,34.99,71.99,medium,low,9,namesilo,,,28/09/2026 09:16
-79056196-712a-4891-9fe8-7c090770c27d,apples.careers,available,28.98,89.98,high,low,6,namecheap,,,18/09/2026 14:01
-721c52e0-4721-41d0-80a4-8a03ce164741,indigent.careers,available,28.98,89.98,medium,low,8,namecheap,,,14/08/2026 04:34
-193dde03-477d-41ed-89cf-973f62069ec2,missouri.careers,available,26.08,57.13,high,low,8,spaceship,,,28/09/2026 10:24
-65232e1e-2cfc-4552-87dd-f6936fb99aea,paz.careers,available,34.99,71.99,high,low,3,namesilo,,,25/09/2026 14:05
-d3bde2ec-d87a-4fad-9ca5-f0198579e301,highway.careers,available,28.98,89.98,high,low,7,namecheap,,,29/09/2026 22:47
-82f99c30-718c-4cc4-9df1-b6c412d3fc7f,nikita.careers,available,55.2,55.2,high,low,6,cloudflare,,,29/09/2026 04:05
-6352861e-bd7c-4dfc-825e-e486b2f76fab,lucas.careers,available,34.99,71.99,high,medium,5,namesilo,,,25/09/2026 06:28
-06a5b7ec-eaba-4389-bc55-dad35f654b5b,granddad.careers,available,26.08,57.13,high,low,8,spaceship,,,29/09/2026 21:09
-223d2060-9708-4a4d-8b64-bd93bc634630,bristol.careers,available,28.98,89.98,high,low,7,namecheap,,,24/09/2026 10:36
-9a7c6ec2-b51a-4f70-af60-72c159a661ce,shouts.careers,available,34.99,71.99,medium,low,6,namesilo,,,18/09/2026 07:00
-c5b9eaea-2987-40ec-b3d7-733c8478f499,tyrol.careers,available,26.08,57.13,medium,low,5,spaceship,,,28/09/2026 20:40
-993bea2f-e43f-4682-9cd8-ad9357282bd2,fittingly.careers,available,28.98,89.98,medium,low,9,namecheap,,,13/09/2026 20:32
-dca93913-f059-4a6a-8316-196f2da83073,speaker.careers,available,55.2,55.2,high,low,7,cloudflare,,,30/09/2026 03:31
-ab76bf6a-d7e2-4c81-a802-9430cdbdd927,metropolitan.careers,available,34.99,71.99,medium,low,12,namesilo,,,29/09/2026 02:58
-e1d4b4f4-802c-46d4-89a4-4a1916dc1131,lloyd.careers,available,34.99,71.99,high,low,5,namesilo,,,25/09/2026 06:57
-a55c226f-6ac0-4689-a35c-4bfbda4344af,arachis.careers,available,34.99,71.99,medium,low,7,namesilo,,,19/09/2026 23:37
-4d34445f-60e2-4232-a590-8099f19e8314,clues.careers,available,34.99,71.99,medium,low,5,namesilo,,,28/09/2026 05:05
-23c78935-9e8b-4edf-9840-4275912f7e5b,turin.careers,available,34.99,71.99,high,low,5,namesilo,,,26/09/2026 00:26
-51fa22cd-e1ce-4506-8190-5ea617af1c9c,capsulate.careers,available,28.98,89.98,medium,low,9,namecheap,,,11/08/2026 18:10
-23506b57-ec4c-4ce9-a29c-ac1b4e1761bb,represented.careers,available,49.99,,high,low,11,name.com,,,
-a66a0100-dae1-4d25-b67a-b415e79ad088,humongous.careers,available,28.98,89.98,medium,low,9,namecheap,,,08/08/2026 12:58
-6f1b4783-6c54-4523-b4c9-aaa5c5923f34,obstinate.careers,available,28.98,89.98,medium,low,9,namecheap,,,13/08/2026 12:17
-dd8bb4f9-3791-4cbb-b213-115529c63150,dysprosium.careers,available,28.98,89.98,medium,low,10,namecheap,,,20/09/2026 23:28
-381c4e6d-d4e2-4897-9f01-d719617cc8fe,demand.careers,available,34.99,71.99,high,low,6,namesilo,,,24/09/2026 15:48
-432923c1-e6f8-4e2d-9438-501a8dfc1f87,kurakkan.careers,available,34.99,71.99,medium,low,8,namesilo,,,17/09/2026 15:21
-97a042b3-56f2-4bb1-9278-ab7919590b7b,position.careers,available,34.99,71.99,high,low,8,namesilo,,,19/09/2026 04:25
-40c88225-f400-4a38-b549-86cb75081dce,estrella.careers,available,26.08,57.13,high,low,8,spaceship,,,01/10/2026 23:33
-586a14ee-dbd8-4f09-8ddf-813f07af6da7,aberrant.careers,available,28.98,89.98,high,low,8,namecheap,,,
-7233305b-12cf-4d00-9cc6-176d7d6c22ae,displeasure.careers,available,16.27,59.07,medium,low,11,dynadot,,,01/10/2026 05:24
-0ebd143a-9a4b-4da1-97a5-153240ed84da,founded.careers,available,26.08,57.13,high,low,7,spaceship,,,28/09/2026 21:04
-81a005f3-56d0-4044-8ee3-26491f3d044a,aflame.careers,available,28.98,89.98,medium,low,6,namecheap,,,
-1e3b7ab8-33a0-4f8c-8103-c7f8067142f3,geneva.careers,available,15.96,57.16,high,low,6,porkbun,,,28/09/2026 09:52
-04555d6a-cf75-4c42-a081-b28b3d128fbb,choreographer.careers,available,26.08,57.13,medium,low,13,spaceship,,,30/09/2026 20:06
-3221a0c1-3d5b-477d-9bd0-6459f2e85003,duration.careers,available,15.96,57.16,high,low,8,porkbun,,,28/09/2026 19:00
-d5b0c703-0bf1-4cb2-a8ab-df1b09a5893f,alves.careers,available,34.99,71.99,medium,low,5,namesilo,,,30/09/2026 12:39
-33809520-2aa3-4186-ae4b-fda6e90793a2,hawkins.careers,available,34.99,71.99,medium,low,7,namesilo,,,28/09/2026 09:24
-0c1a0ac7-ef9a-4c62-92a5-6e5dade57545,batting.careers,available,34.99,71.99,high,low,7,namesilo,,,22/09/2026 14:25
-96eae388-b79a-4bc1-971c-311a6a2a5b4a,classrooms.careers,available,26.08,57.13,high,low,10,spaceship,,,01/10/2026 18:38
-0d04e395-2fb7-471c-a084-cb661d36d9c6,baobab.careers,available,34.99,71.99,medium,low,6,namesilo,,,17/09/2026 06:21
-8b4a78c1-723f-4ee8-b1f9-4bc4227c7a72,goody.careers,available,29.99,94.99,high,low,5,name.com,,,13/08/2026 15:54
-d76262cc-8591-4da6-a0be-951fdfcbd791,necessity.careers,available,28.98,89.98,high,low,9,namecheap,,,24/09/2026 15:20
-95861c17-be2a-4f4c-81c8-307a874b88cd,vestiary.careers,available,28.98,89.98,medium,low,8,namecheap,,,13/09/2026 04:51
-36e53be0-7667-49a8-ad44-f90c7a77d172,unrepaired.careers,available,28.98,89.98,medium,low,10,namecheap,,,12/09/2026 18:17
-e47fc812-82af-41ef-849b-da9e35c4eeb5,morgantown.careers,available,34.99,71.99,medium,low,10,namesilo,,,29/09/2026 19:41
-350850f4-6129-4ad3-9de9-0d69ac98287e,pitfall.careers,available,34.99,71.99,medium,low,7,namesilo,,,30/09/2026 06:53
-7e7a0498-8ccf-402b-ba54-373c0e9a009b,cupric.careers,available,28.98,89.98,medium,low,6,namecheap,,,13/08/2026 10:49
-0c5d74ce-42f5-48e4-9ecb-fbf73fbaf535,advertise.careers,available,34.99,71.99,high,low,9,namesilo,,,29/09/2026 20:39
-c09cdcd8-b77d-45fd-95b5-665208124c17,purchaser.careers,available,34.99,71.99,high,low,9,namesilo,,,24/09/2026 11:22
-6aec72a4-546c-424a-b657-7989124cfc25,raymond.careers,available,28.98,89.98,high,low,7,namecheap,,,25/09/2026 19:12
-211946da-2874-4250-8524-b0685c2d4615,andros.careers,available,16.27,59.07,high,low,6,dynadot,,,30/09/2026 20:49
-bec566bd-66d4-4b0f-9685-459508a31fa2,manning.careers,available,34.99,71.99,high,low,7,namesilo,,,02/10/2026 00:34
-81a42dec-03d2-4155-9c6f-b5c502e066b7,sewell.careers,available,34.99,71.99,medium,low,6,namesilo,,,28/09/2026 22:10
-bffc5b57-ceb2-46a5-9dd3-83f5ee5e51ab,proceeded.careers,available,34.99,71.99,medium,low,9,namesilo,,,18/09/2026 01:36
-385dcd94-4a95-4c85-ad37-91ca7c8c2aa5,roundly.careers,available,28.98,89.98,medium,low,7,namecheap,,,14/09/2026 00:45
-7c9af39e-eb04-49fe-902a-755118ba3764,nebulous.careers,available,28.98,89.98,medium,low,8,namecheap,,,12/08/2026 12:45
-e0150adf-27aa-4088-b262-33a3c895e390,sober.careers,available,28.98,89.98,high,low,5,namecheap,,,20/08/2026 18:42
-11e9e352-9e66-4850-8eff-e6da38bde262,contractions.careers,available,26.08,57.13,medium,low,12,spaceship,,,01/10/2026 16:01
-989bb111-ef36-4d3c-89bc-a093d228c06c,lordless.careers,available,28.98,89.98,low,low,8,namecheap,,,24/08/2026 09:52
-e2d8b4d7-9f76-4077-8227-eba6620565e8,stippled.careers,available,28.98,89.98,medium,low,8,namecheap,,,14/08/2026 16:36
-904b0a86-9448-4ff8-a506-de48392f64a5,tempt.careers,available,34.99,71.99,high,low,5,namesilo,,,18/09/2026 12:14
-03c901d6-f5ef-4436-8746-a9c2cd0d2cff,jpl.careers,available,28.98,89.98,medium,low,3,namecheap,,,01/10/2026 07:58
-86aed8ed-2650-4834-a876-484866bdb865,nascent.careers,available,28.98,89.98,medium,low,7,namecheap,,,03/09/2026 13:35
